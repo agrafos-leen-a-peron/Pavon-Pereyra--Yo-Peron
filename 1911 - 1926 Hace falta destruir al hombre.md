@@ -1,4 +1,7 @@
-AL TOQUE DE DIANA: LA PEDAGOGÍA DE LOS BÁRBAROS
+# Hace falta destruir al hombre 
+(1911 - 1926)
+
+## AL TOQUE DE DIANA: LA PEDAGOGÍA DE LOS BÁRBAROS
 
 Me preguntaron muchas veces por qué me decidí por la carrera militar como profesión. Yo creo
 que, como en la mayoría de los casos en la vida de los hombres, ésta también fue una decisión
@@ -79,7 +82,6 @@ sojuzgados. De nuestro inmaculado general San Martín, que entregó su vida a un
 emancipadora y que, si no murió peleando como el gran mariscal Solano López, hizo lo de
 Artigas, nunca se rindió al mejor postor. Nuestros militares no conocían estas cosas, estaban muy
 ocupados en otras como para leer algo tan importante. Por otro lado, no hay mayor tranquilidad
-
 que la que posee quien poco sabe. Éstos, seguramente, viven tranquilos desconociendo todo lo que
 tenían que saber para ser considerados seres humanos.
 
@@ -178,7 +180,7 @@ minutos para lavarnos las manos y la cara, luego formación para recibir los “
 pasaba revista al uniforme. En eso también me destaqué, a mí me es fácil hasta hoy reconocerme
 en las fotografías con uniforme, el mío era el que invariablemente no tenía arrugas.
 
-Los bípedos implumes: “El sindicato más fuerte y mejor organizado”
+## Los bípedos implumes: “El sindicato más fuerte y mejor organizado”
 
 Una bárbara tradición permitía el vapuleo de los novatos por parte de los antiguos. Era
 verdaderamente una prueba de fuego para los cadetes “Bípedos”. Se suponía que ese tipo de
@@ -309,7 +311,7 @@ Infantería con asiento en Paraná. Me olvidaba anotar que en Yuquerí, el tren 
 perder el pulso y me desplomé con la mochila al hombro. Alguien se detuvo a mi lado y agregó mi
 mochila a la suya. Era el cadete correntino que entonces firmaba Filomeno Martínez Velasco.
 
-Ingreso al Regimiento 12 de Infantería
+## Ingreso al Regimiento 12 de Infantería
 
 Fui destinado al Regimiento 12 de Infantería de Línea en Paraná. En la primera campaña recibí
 una sección de ochenta soldados y diez suboficiales. Fue mi primer contacto con una realidad
@@ -370,7 +372,6 @@ mucho después de que el sol desaparecía; había un momento de descanso al medi
 servía para reponer fuerzas. Mis compañeros de destino y yo nos adaptamos al ambiente: y a pesar
 del sacrificio, todo quedaba compensado por el placer de conocer “más mundo”. Recuerdo entre
 ellos a Werfil Sánchez, Bazán, Rodrigáñez, Ricchieri y Moreira. Lo único realmente insoportable
-
 era dormir en ese tétrico galpón, conformado por barracones sucios, húmedos, que más bien
 parecían destinados a algún animal que a los pobres cristianos.
 
@@ -490,7 +491,6 @@ una adecuada alimentación.
 Los hechos de la Semana Trágica y las convulsiones sucesivas, si bien podían ser focalizados en
 los reclamos de un sector marginado, formaban parte de los síntomas de una sociedad enferma,
 donde abundancia y marginalidad coexistían descaradamente, pero donde también la oligarquía se
-
 veía limitada al no poder prescindir de ese sector “enfermo” y marginal que con gusto hubiese
 extirpado, porque tenía la incapacidad de concebir una ecuación donde coexistiesen ambos
 términos. Así descubrí, frente al drama social, que no puede hablarse de una “economía patronal”
@@ -520,7 +520,6 @@ Los mandos superiores del ejército descubrieron que allí obraba una manifiesta
 parte del oficial a cargo del operativo contra los trabajadores y decidieron su relevo asignándome
 en su lugar. A partir de ese momento, pasé de ser espectador a ser protagonista directo de aquellas
 amargas jornadas.
-E
 
 Cuando llegué a San Cristóbal para hacerme cargo de mi destino, descubrí en el jefe político del
 lugar, interesado en la represión salvaje del movimiento huelguístico, una actitud genuflexa con
@@ -672,7 +671,7 @@ años después, dar sentido práctico a los nuevos conocimientos teóricos que i
 años en la Escuela de Suboficiales y en la Escuela de Guerra. Había podido ver, en forma sobrada,
 lo que mi pueblo necesitaba.
 
-“.. Un ejército de muchachos humildes”
+## “.. Un ejército de muchachos humildes”
 
 A comienzos de 1920 y con veintiséis años, fui trasladado a la Escuela de Suboficiales Sargento
 Cabral. Me habían ascendido a teniente primero, asignándome la tarea de instructor de aspirantes.
@@ -767,7 +766,7 @@ intento por lograr una sociedad integrada.
 
 Ya comenté que también aprendí mucho de ellos, las conversaciones con cada uno de los
 aspirantes me permitieron ir conociendo las penurias que soportaban los argentinos en las regiones
-abandonadas por la “ci
+abandonadas por la “civilización” ciudadana. El intento de remediar la causa de esos males fue
 conformando mi propia filosofía, criolla y universal al mismo tiempo. Asimismo, se tornaba
 imperiosa la necesidad de responder a reparaciones históricas.
 
@@ -793,9 +792,6 @@ del tema en forma crítica. Más bien me inclino a pensar que eran otros los par
 Argentina con los que aquel hombre se encontró: no nos olvidemos de que cuando la oligarquía
 advirtió que se achicaba la torta a causa de la crisis mundial de 1929, decidió por todos los
 medios, incluida la ayuda externa, recuperar el gobierno por propia mano, evitando pagar
-
-lización” ciudadana. El intento de remediar la causa de esos males fue
-
 administradores. Algo así pensé que había sucedido también en el 55, cuando nos atrevimos a ir
 más allá de la mera administración. Si yo hubiera sabido que en el 55 querían algo más que el
 gobierno, destruir las organizaciones del pueblo, tal vez no me hubiera ido. Pero ésta es otra
