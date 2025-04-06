@@ -9,7 +9,7 @@ es trabajar por nuestros semejantes. Jugarse por ellos. El alcance de nuestra ab
 piedra de toque de toda grandeza verdadera. Por lo demás, los puestos de responsabilidad no se
 reclaman, sino que se merecen.
 
-Cuando decidí redactar mi “Anutobiografía” 0, como dirían los franceses, “Perón por él mismo”,
+Cuando decidí redactar mi “Autobiografía” o, como dirían los franceses, “Perón por él mismo”,
 pensé en un libro fiel a mi talante, donde se hablara mucho de los demás, poco de mis amigos y
 nada de mí, ya que no me considero exento de equivocaciones garrafales y, créase o no, he pagado
 ese derecho de piso que supone todo aprendizaje sin tener antes real idea de la política.
