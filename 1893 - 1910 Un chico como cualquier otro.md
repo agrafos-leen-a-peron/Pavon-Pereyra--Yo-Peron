@@ -1,6 +1,8 @@
 
-PARA IR ACLARANDO:
-7 DE OCTUBRE DE 1893
+# 1893 - 1910 Un chico como cualquier otro
+
+## PARA IR ACLARANDO:
+## 7 DE OCTUBRE DE 1893
 
 En la vida he procurado servir antes que servirme: ser artífice del destino común. Lo que importa
 es trabajar por nuestros semejantes. Jugarse por ellos. El alcance de nuestra abnegación es la
