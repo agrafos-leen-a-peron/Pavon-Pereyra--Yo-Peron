@@ -1,4 +1,7 @@
-CASI UN RETORNO
+# Exilio y Resistencia
+## (1960 - 1972)
+
+## CASI UN RETORNO
 
 La década del 60 se inició con una nueva perspectiva en el panorama político de nuestro país.
 Habían pasado cinco años de la caída del gobierno del “Tirano Prófugo” como gustaba decirme
@@ -81,7 +84,6 @@ de posición con respecto a la política nacional. Pudo pensarse que el justicia
 lucha y que el voto en blanco era sólo la justificación del adiós. Por otra parte, la gente siempre
 necesita ver un horizonte: pedirle de repente que votara en blanco podía interpretarse como que el
 famoso “líder” no tenía respuesta política a la coyuntura. Por eso fue fundamental la campaña de
-
 adoctrinamiento que comenzó el Comando y, por la misma razón, que España fuese el país de
 residencia y el centro de operaciones.
 
@@ -237,6 +239,7 @@ La mía, sin embargo, fue una decisión irrevocable. Así lo hice saber a quien 
 Pensaba que mi llegada podía ser prenda de unión y pacificación nacional. A esa altura de mi vida
 me di cuenta de que la única función política que podía implementar personalmente era la de
 factor aglutinador.
+
 Algarbe era en ese momento mi secretario y la persona que se encargó de supervisar desde
 Madrid el “Operativo Retorno”. De Gaulle visitó la Argentina y las bases lo reciben al grito de:
 “De Gaulle y Perón un solo corazón”. El 17 de octubre del 64 pasó a ser memorable debido a que
@@ -266,7 +269,6 @@ hasta que nos permitieron volver a España. Las autoridades brasileñas expresar
 que la aeronave se desviara de su ruta hacia Europa y pretendiese retornar al continente
 americano, sería derribada sin contemplaciones. La conjetura del gobierno había tenido buen
 resultado. Los regímenes de la Argentina y el Brasil, uno surgido de elecciones restringidas, el
-
 otro de un golpe militar, se habían puesto de acuerdo. Yo estuve decidido a trasladarme a la
 Argentina porque allí se estaba forjando un movimiento que podría apuntalar al gobierno de Illia.
 
@@ -286,7 +288,7 @@ el cual en ese momento sobresalía Illia como “jefe”, pero que era una conti
 que en diez años había reunido un millón y medio de desocupados y la falta de un millón de
 viviendas. ¡El corso seguía su marcha!
 
-Uno contra todos
+## Uno contra todos
 
 Los “intelectuales” de moda me hacen acordar de un asistente que tenía en Paraná, que andaba en
 talle gentil aguantando temperaturas bajo cero. Le pregunté si no lo habían provisto del capote
@@ -508,9 +510,7 @@ azucareros en Tucumán.
 violencia engendraba violencia una vez más.
 
 La fuerza de la gente, por momentos incontenible, trató de apaciguarse mediante una concesión
-
 en fin, aires de lucha armada soplaban en el ambiente político. La
-
 política: el otorgamiento de la personería jurídica al Partido Justicialista. Esta jugada clave aplacó
 los espíritus.
 
@@ -579,7 +579,6 @@ manera más de entender racionalmente la idea de ser Nacional. La palabra Perón
 perteneciente al mágico breviario de que dispone el pueblo para autorreconocerse como
 copartícipe de una misma integridad. Con que esta aseveración fuese verdadera, aunque sea en un
 pequeño porcentaje, demostraría entonces la trascendencia que tuvo, para muchos compatriotas, el
-
 haberse opuesto al plan de la oligarquía de hacer un peronismo sin Perón. Si mi nombre valía aún
 algo, era menester que sirviese como factor de unidad y no de agresión violenta.
 
@@ -643,7 +642,7 @@ Así, mi única carta fue Isabelita, a quien envié con las siguientes instrucci
 
 Instrucciones a Isabel
 
-1. MÉTODO
+### I. MÉTODO
 
 Es necesario establecer un programa y un sistema.
 
@@ -662,7 +661,7 @@ un horario de trabajo, por ejemplo, recibir gente a la mañana y dedicar las tar
 actividades o el descanso. Un día por semana debe dejarse totalmente libre para reponer energías.
 Respetar minuciosamente el horario establecido es fundamental.
 
-I[. MISIÓN
+### II. MISIÓN
 
 1. Unión y solidaridad de todos los peronistas
 
@@ -762,7 +761,7 @@ donde debemos darles la batalla. Todos los triunfos del Peronismo se han ganado 
 en los comités políticos ni en los bufetes de los dirigentes. Abandonar esa táctica es renunciar
 deliberadamente al factor de nuestra mayor fuerza.
 
-III. FORMAS DE EJECUCIÓN
+### III. FORMAS DE EJECUCIÓN
 
 Establecido el método de trabajo y fijadas las misiones, me queda por indicar las formas de
 ejecución que mi experiencia en el trato con peronistas aconseja:
@@ -825,7 +824,6 @@ han de acompañar en la marcha mediante la más perseverante acción de convenci
 
 Los partidos políticos demoliberales burgueses pertenecen al siglo XIX y han sido superados
 por la evolución que, con el tiempo, ha de hacerlos desaparecer en nuestro país, como ya han
-
 desaparecido en casi todo el mundo civilizado. La fuerza del Peronismo radica en gran parte en
 que constituye un movimiento nacional y no un partido político. Lo moderno y que obedece a las
 nuevas formas impuestas por la evolución y las modernas necesidades del hombre de hoy, es una
@@ -886,7 +884,6 @@ Precisamente, uno de los milagros del Justicialismo que muchos tontos o ignorant
 podido comprender, reside en haber realizado los cambios estructurales incruentamente a través de
 una reforma racional. Aún hay muchos peronistas que todavía no lo comprenden y el fracaso del
 gorilismo, que estos diez años han puesto en tan terrible evidencia, ha sido producido
-
 precisamente por una reversión del moderno sistema justicialista hacia las formas que, ya
 perimidas por la evolución, han caído en el vacío.
 
@@ -904,7 +901,7 @@ haber comprendido de qué se trata. La tarea de la conducción es precisamente �
 dirigentes, empeñados en las tareas subalternas del quehacer diario de la política menor, parecen
 haberlo olvidado. Es preciso entonces que alguien los llame a la realidad.
 
-TV. CONDUCTA A SEGUIR
+### IV. CONDUCTA A SEGUIR
 
 En el Peronismo existen dos horizontes de acción: los dirigentes y la masa. Los primeros
 conducen o encuadran a la segunda, aunque no siempre marchan de acuerdo y no siempre esa
@@ -1108,8 +1105,6 @@ pensó que había que proceder con debilidad y menos aún con evidente obedienci
 El hecho de que hayan sido los peronistas los que presentaron el proyecto de aumento de sueldo a
 los diputados los presenta en una situación lamentable y hasta deshonesta. Muchas otras actitudes
 individuales han sido aún más deleznables. Parecería que la conducta de los legisladores del
-E
-
 Peronismo obedece a la misma tendencia de la conducción: no complicarse personalmente la vida
 y cuidar el puestito.
 
@@ -1127,7 +1122,7 @@ mucho chisme, de los cuales hay que cuidarse. La gente interesada es capaz de in
 cosa, pero una consulta con las personas de confianza con quienes se actúa suele ser suficiente
 para aclararlo todo.
 
-V. ALGUNOS CONSEJOS PERSONALES
+### V. ALGUNOS CONSEJOS PERSONALES
 
 La personalidad del dirigente político juega un papel muy importante en su predicamento y en
 la eficacia de su acción. La Señora de Perón tiene una personalidad que hace presuponer su éxito
@@ -1397,7 +1392,6 @@ sobre la base de este acuerdo explícito. ¿Qué niña de la sociedad iba a ser 
 enamoraba de un oficialito? ¿Qué oficial no soñó alguna vez codearse con esa estirpe
 “seudonoble” mediante el contrato matrimonial? Muchos apellidos de antigua data en el Río de la
 Plata se leen en los registros de los aspirantes a las Fuerzas Armadas en todos los tiempos. Los
-
 otros, que no pueden blandir apellidos ilustres, se entronarían en la política. Tengo un ejemplo
 para ambos. Al mes de la dictadura de Onganía, ya había datos suficientes al respecto. Un apellido
 “común” se hace del gobierno, uno “ilustre” le organiza la economía. Este último es quien hace de
@@ -1457,7 +1451,6 @@ rama femenina, la mujer, había recibido un impulso fenomenal con la llegada de 
 
 Ella estuvo nueve meses en el país y a su regreso no volvió sola, como tampoco se había ido. La
 acompañaba una persona menuda, de voz demasiado aguda para su edad, digna de risa si no fuera
-
 por otras características que causaban más gracia y entonces tornaban poco importante el tema de
 la voz. Había sido, según él, actor y cantante, y no sé de qué reducto lo trajo Chabela, pero cuando
 me lo presentó, este ñato mostró una particular y fundamental cualidad, una sumisión proverbial,
@@ -1510,7 +1503,7 @@ equivocó: con su proceder, cuáles fueron sus verdaderas intenciones. Vandor ju
 mucho tiempo; como no lo quiso apagar, lo repelieron, pero en vez de agua usaron el mismo
 elemento que él usaba.
 
-El retorno tan temido
+## El retorno tan temido
 
 En medio de una situación política muy explosiva, yo vi que el peronismo estaba despertando a
 una nueva faz, no sólo interpretativa sino también de carácter, en lo que se refiere a su acción. Un
@@ -1633,7 +1626,6 @@ hacer.
 
 A partir de ese momento comenzará el proceso del segundo retorno, esta vez definitivo. Yo supe
 que todo iba a pasar por los contactos con el enviado de Lanusse a Puerta de Hierro, el coronel
-
 Cornicelli, con quien resolví no arribar a ningún acuerdo. Las cartas estaban echadas a favor de mi
 persona. Sólo tenía que desnudar la infamia del Gran Acuerdo Nacional —el GAN— y comenzar
 yo a consentir acuerdos programáticos con los partidos más importantes y, después, sentarme a
@@ -1693,7 +1685,6 @@ Después del 11 de marzo de 1973, había pocas cosas que yo podía hacer dentro 
 se encontraba más bien en el exterior. En ese campo, yo podría impulsar con mi palabra las
 estrategias políticas del gobierno de Cámpora. En ese sentido, mi viaje a París buscó ese objetivo.
 Lo mismo sucedió con el viaje realizado a la capital italiana. Viajamos con Cámpora y visitamos
-
 juntos a las autoridades italianas; luego, en el Vaticano hicimos otro tanto, reforzando la imagen
 de primer mandatario que tenía que poseer nuestro representante justicialista.
 
@@ -1755,7 +1746,6 @@ sea chiquilín! Póngase eso y vamos”.
 A mí se me había pasado ya el cuarto de hora, yo no era el mismo Perón que se comía las
 paredes en el 43, con ínfulas de conducir hasta lo que parecía inconducible. A partir de esta nueva
 experiencia que vivía el peronismo, mi intención fue sobrevolar la realidad a vuelo de pájaro y,
-
 mientras viviese, posarme sobre aquellas situaciones en las cuales considerase que podría
 contribuir. Había llegado a la política veinte años atrás; otros tenían que dirigir el proceso ahora,
 yo tenía que limitarme a adoctrinar.
