@@ -1,4 +1,7 @@
-UN JUGUETE DEL DESTINO
+# El compromiso politico del ejercito
+## (1930 - 1943)
+
+## UN JUGUETE DEL DESTINO
 
 Hasta 1930, mi vida habíase reducido a los trabajos y estudios propios de mi profesión. En
 vísperas de septiembre de ese año, la inoperancia del gobierno ante los graves problemas que se le
@@ -23,7 +26,6 @@ expiatorio de todos los males se llamase Hipólito Yrigoyen.
 
 Por aquel entonces había egresado de la Escuela Superior de Guerra y era flamante oficial del
 Estado Mayor. Maduraban en mí ciertos conceptos históricos y estratégicos, que al transcurrir de
-
 los años darían forma progresivamente a los lineamientos generales de mi pensamiento político,
 que cobrará forma y sentido en relación con las circunstancias en que se aplique.
 
@@ -32,7 +34,6 @@ en la Escuela Superior de Guerra, con el profesor Rottger, cuya praxis me conduj
 profundamente sobre el sentido de nuestra evolución nacional.
 
 Cuantiosas investigaciones en archivos y bibliotecas nutrieron mi comprensión sobre el
-
 presente y su pasado, y alentaron mi visión sobre un futuro vislumbrado como absolutamente
 distinto, desde el momento en que el protagonismo de la historia cambiara de mano. Desde el
 momento mismo en que los desposeídos, los que nada tienen, dejasen de ser juguete de la historia
@@ -46,7 +47,6 @@ servil que supieron ocultar la verdad detrás de un fárrago de monumentos a íd
 tal de garantizar la trabajosa digestión de sus cuatro comidas diarias, alimentaron cenáculos de
 seudohistoriadores. Ninguno de ellos se asomó por el Archivo General de la Nación, y los pocos
 investigadores que no tocan de oído prefirieron escamotear los documentos que podían alterar la
-
 visión oficial de los hechos que no resiste el menor análisis.
 
 Yo mismo he frecuentado el Archivo General de la Nación y confieso haber descubierto un
@@ -204,7 +204,7 @@ salvar, en sus Últimos estertores, las huellas de un pasado que ya no podría v
 proyectar un modelo de república democrática burguesa de fuerte tinte oligárquico en nuestra
 patria sería desmoronado a corto plazo por la fuerza popular incontenible.
 
-En los pueblos de frontera
+## En los pueblos de frontera
 
 Pocos meses después del comienzo de la revolución y después de haber sido profesor de Historia
 Militar, fui comisionado para integrar una misión en la frontera norte. Además colaboré en la
@@ -329,7 +329,6 @@ las cuales muchos de los presentes eran responsables. La ironía ha servido gene
 reforzar los argumentos, y en ese caso me resultó de notable ayuda: comenté los detalles del
 encuentro en la frontera con un guarda aduanero que se cubría con las hilachas de un antiguo
 uniforme de verano, pese a que la dureza del clima hacía aconsejable el uso de pieles. “Por lo que
-
 veo, amigo, usted no debe tener frío”, le dije. “Frío tengo”, me respondió. “Lo que no tengo es un
 capote decente”.
 
@@ -343,7 +342,7 @@ inmortalizado como Pablo Neruda. Toda esta experiencia me facultó para que se m
 primer destino fuera de mi país, en territorio trasandino. Viejas cuestiones fronterizas
 contribuyeron a complicar el panorama y a demostrar que aquélla no sería una misión sencilla.
 
-Más allá de los Andes
+## Más allá de los Andes
 
 Mi traslado a Chile fue bien recibido por muchos motivos, quizás el más importante haya sido el
 reconocimiento implícito a la tarea personal realizada en anteriores destinos, con lo cual la
@@ -356,8 +355,6 @@ hogar. No quisiera que esto se tomara como una queja pues en realidad aquella vi
 elegida libremente. Me pasó a mí como a tantos otros hombres que cuando su profesión muestra
 su verdadero alcance, logra transformarse en una pasión que le hace olvidar el aspecto de su vida
 cotidiana y familiar. Potota fue quien mejor supo de aquellas contradicciones y digamos también
-10 FEN
-
 que fue la persona que más las padeció, aunque supo soportarme e incluso, a veces, con su
 doloroso silencio, ayudarme.
 
@@ -413,7 +410,7 @@ club “Nuñoa”, instalado en el barrio residencial de ese nombre. Allí tambi
 había entablado relación con las esposas de mis amigos. Era corriente que le preguntaran por la
 salud de su cónyuge, el “che panimávida”, que era el apodo que me regalaron.
 
-Misión en Chile
+## Misión en Chile
 
 Desde la distancia se ven mejor las cosas. Chile fue para mí, desde el punto de vista de la
 reflexión política nacional, un ángulo de observación distinto, desapasionado.
@@ -476,7 +473,6 @@ políticas del vecino país y con las que mantuve una fluida relación a lo larg
 gobierno. ¡Al que echaron por espionaje fue a Lonardi, el camarada que me había reemplazado! Si
 yo hubiera sido espía, el gobierno chileno no me hubiese condecorado como lo hizo con la Gran
 Cruz del Mérito O'Higgins y el Gran Collar de la República de Chile.
-E
 
 De esos años data el resentimiento que malogró la franca amistad con Lonardi, mi sucesor en
 Santiago de Chile. Mi conmilitón estaba casado con una hermana de los Villada Achával,
@@ -600,7 +596,7 @@ verdadero grotesco en su borrachera de poder. Cuanto más alto iban, más se env
 recordaron el ejemplo del cóndor, símbolo de América, imagen que los políticos deberíamos tener
 siempre presente porque se trata del ave que vuela más alto y no se marea.
 
-Misión en Italia
+## Misión en Italia
 
 Habían dispuesto mi pase a Europa. No sé realmente cómo hubiera tomado la noticia en otra
 circunstancia, lo cierto fue que un viaje así y de esas características venía muy bien para un
@@ -745,9 +741,8 @@ Bertollo, Solís y Cazalás, se encontraron conmigo. En Turín, posteriormente, 
 vicecomodoros Roberto Bonell y Pérez Aquino. Para esa época se rumoreaba que la Argentina era
 pro Eje y la prueba de ello éramos nosotros, que andábamos por Italia, según nuestros infamantes,
 “regocijándonos con el dolor de los aliados”. Reconozco que me deslumbré con la personalidad de
-
 Mussolini, pero tengo la serena tranquilidad de espíritu para sostener que nunca me “enamoré” de
-él
+él.
 
 Pero evidentemente había en Italia un fervor nacionalista incontrastable, azuzado por dos
 elementos fundamentales: la personalidad avasallante del latino, hija del temple tenaz de las tres
@@ -864,7 +859,6 @@ disparar en contra de éste”.
 
 A partir de ese momento seguí de cerca las acciones del gobierno, comparándolas con sus
 contradicciones ideológicas internas. Conversábamos de esto con varios argentinos: los tenientes
-
 coroneles Campero y Zucal, y con los oficiales que habían sido alumnos como Pérez Aquino y
 Jalabert.
 
@@ -910,7 +904,7 @@ misma noche, mientras caminaba por el Corso Umberto, por el centro mismo de Roma
 mi casa, comenzaba ya a reflexionar sobre los “corsi e recorsi” de la historia, ya que justamente en
 esos días había estado estudiando la obra genial del gran historiador Giambattista Vico.
 
-Por sacarme de Buenos Aires... Mendoza
+## Por sacarme de Buenos Aires... Mendoza
 
 Regresé a la Argentina con un panorama bastante claro de lo que estaba aconteciendo en el
 mundo. No se trataba solamente de una guerra mundial; la historia seguía su inexorable curso,
@@ -979,17 +973,15 @@ políticos y más sociales.
 A mis interlocutores mendocinos les hice saber que Chile nos llevaba una ventaja de veinticinco
 o treinta años en la organización del trabajo. Y cuando les comentaba que ellos ya habían encarado
 las cuestiones de la asistencia social, del salario mínimo, salubridad y descanso, trataban de
+descalificarme diciéndome:
 “..seguramente usted no subestima los frutos de la experiencia
 europea”. Para aquellos hombres que “vivían de la política”, todo lo que se dijera a favor de lo
 social sólo podía provenir de un comunista o de un fascista. De nada me sirvió aclararles que no
 me dejaba obnubilar por aquella experiencia italiana y que, por otro lado, no eran aplicables a
-
-descalificarme diciéndome:
-
 nuestra realidad, ya que los factores que condicionaban la realidad europea carecían, por el
 momento, de significación entre nosotros.
 
-Aquellos hombres sólo veían trabajadores que amenazaban sus privilegios y cuestionaban “su
+Aquellos hombres sólo veían trabajadores que amenazaban sus privilegios y cuestionaban “su"
 democracia. No podían imaginarse el drama de países superpoblados, sin espacios vitales, carentes
 de materias primas, con una autarquía bastante aleatoria como para darse cuenta de que los
 problemas que por entonces afligían al europeo no hubiesen tenido sentido en nuestra América.
@@ -1033,10 +1025,9 @@ destruir toda oposición a la entrega descarada de los intereses nacionales. En 
 de 1941, fecha en la que regresé al país, la situación del ejército se podría definir como de empate
 entre los seguidores del general Justo, que mantenían un claro predominio frente a sectores que a
 la luz de los acontecimientos nacionales e internacionales, mantenían abierta la discusión e
-
 incierto el futuro.
 
-'No quisiera omitir en este desordenado recuerdo a quien fue mi primer ayudante y amigo en el
+No quisiera omitir en este desordenado recuerdo a quien fue mi primer ayudante y amigo en el
 Centro de Instrucción de Montaña, el teniente primero de infantería Pedro León Lucero, que debió
 soportarme durante aquel largo año que permanecimos en Mendoza.
 
@@ -1107,7 +1098,6 @@ oposición de pro nazi.
 Quisiera decir algo definitivo respecto a lo anterior para que se dejen de macanear y acusar
 falsamente a tanto hombre que sólo trató en buena fe de defender a su patria. ¿No es extraño que
 cada vez que se trata de descalificar a algún hombre se lo acuse de “fascista”, “nazi” o
-
 “comunista”? En aquella época este último estigma había quedado por el momento de lado pues
 los yanquis eran aliados de los rusos en su lucha contra una Alemania que se atrevía a desafiar la
 hegemonía mundial. Nosotros éramos nacionalistas y esto para los liberales de todas las épocas
@@ -1194,8 +1184,6 @@ entonces una carta abierta al ministro del Interior, Miguel J. Culaciati, donde 
 frescas. Allí, no sólo criticaba la política de entrega de la economía nacional, sino que además se
 acusaba al propio Culaciati de ser agente de SOFINA y de Bunge y Born. La voz de Torres no era
 la única que por entonces se alzaba, junto a él estaban Scalabrini Ortiz y los hombres de FORJA,
-Yo Perón
-
 con quienes el GOU no mantenía un contacto directo, pero coincidía en un todo con las denuncias
 que aquéllos llevaban adelante.
 
@@ -1227,6 +1215,5 @@ un país que gobiernos inescrupulosos y faltos de miras habían convertido en su
 como tal lo manejaron, entregándolo al saqueo. Pero en honor a la verdad, el 4 de junio de 1943
 fue sólo el comienzo, la revolución recién comenzaba a escribirse, había que planificar y dirigir,
 darle un verdadero sentido a ese poder y ahí yo quería meter mano. La razón por la que nos
-
 impusimos, comenté alguna vez, fue muy simple: todos ellos eran “uno”, mientras nosotros
 éramos “dos”: Mercante y yo.
