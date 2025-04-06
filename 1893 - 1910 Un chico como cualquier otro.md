@@ -1,5 +1,6 @@
 
-# 1893 - 1910 Un chico como cualquier otro
+# Un chico como cualquier otro
+## (1893 - 1910) 
 
 ## PARA IR ACLARANDO: 7 DE OCTUBRE DE 1893
 
