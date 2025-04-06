@@ -1016,4 +1016,46 @@ imperialistas buscaban crear hegemonías inadmisibles y satélites privilegiados
 ¡Triste espectáculo el de esa Argentina oficialmente ausente en el proceso emancipador de la
 América Latina, sobre todo si se la compara con aquella Argentina de veinte años atrás que, a
 pesar de estar hostilizada por poderosos intereses extrarregionales, dio importantes pasos para
-facilitar 
+facilitar la unidad y la liberación de la América Latina, respetando siempre el principio de no
+injerencia en los asuntos internos de otros Estados!
+
+Más triste aún es comprobar que los descendientes de aquellas fuerzas que en el siglo pasado se
+batieron en medio continente por la primera emancipación de nuestros pueblos, hayan sido
+utilizados para aherrojar al propio pueblo argentino. Y que, desde la patria de San Martín, haya
+quienes complotaban contra el gobierno nacionalista y popular del general Velasco Alvarado.
+
+Toda la América Latina —y en particular Hispanoamérica— estaban reclamando la presencia
+oficial argentina en el proceso de unidad y emancipación continentales. Pero, ¿cómo íbamos a
+tener participación en ese proceso dentro de su gigantesca dimensión, si nuestros gobernantes ni
+siquiera tenían resuelto con el Uruguay la delimitación de la soberanía sobre el Río de la Plata?
+Era absurdo que las marinas de los descendientes de San Martín y Artigas se pelearan para ver
+quién remolcaba a un barco que se estaba incendiando, en lugar de cooperar estrechamente para
+apagar el fuego. La Argentina y el Uruguay debían resolver en la mesa de negociaciones todas las
+divergencias existentes entre ellos sobre el Río de la Plata o las 200 millas marinas.
+
+Lo importante era que los argentinos, defendiendo nuestros intereses nacionales vitales pero con
+generosidad hacia los hermanos orientales, nos pusiésemos de acuerdo con ellos para que el Río
+de la Plata no se convirtiera en una cloaca promovida por nosotros o por terceros y para impedir
+que modernos filibusteros viniesen a operar dentro de nuestras 200 millas marinas. Ningún barril
+de petróleo podía romper la unidad que nos impone nuestra común estirpe y nuestros comunes
+intereses vitales. En particular, la Argentina y el Uruguay, junto con los demás integrantes del
+sistema, debían exigir que la Cuenca del Plata fuese utilizada en beneficio de todos con el debido
+respeto de los intereses de todos. Además, había que emprender Salto Grande y El Palmar.
+
+La ausencia oficial argentina en el proceso de construir una nueva Patria Grande era
+comprensible. Yo me pregunto: ¿Cómo los gobernantes argentinos iban a promover la liquidación
+de las fronteras ideológicas fuera del país, si las aplicaban dentro mediante la represión y la
+proscripción encubierta del mayor movimiento popular de toda la América Latina? ¿Cómo iba a
+promover afuera el respeto de los derechos humanos un régimen que se burlaba de ellos y bajo
+
+cuya égida la mortalidad infantil había dejado de ser un problema sanitario para convertirse en un
+genocidio colectivo? Decían querer recuperar las Malvinas, pero ¿qué hicieron para que Panamá
+recupere su Canal, al que tan legítimamente aspira como nosotros aspiramos a nuestras islas?
+¿Cómo podían mostrarse nacionalistas afuera, si han permitido la desnacionalización de nuestras
+empresas, de nuestra cultura y hasta del aire que respiramos? ¿Cómo iban a tener longitud de mira
+en su política latinoamericana quienes, con su miopía histórica, no se daban cuenta de que hasta la
+propia existencia de la Argentina como nación estaba amenazada?
+
+Todo esto fue lamentable, pero pronto se terminará. Entonces el pueblo argentino verá
+fructificar su lucha para reimponer su soberanía y habrá una presencia oficial argentina en la lucha
+por la Segunda Independencia de la América Latina.
