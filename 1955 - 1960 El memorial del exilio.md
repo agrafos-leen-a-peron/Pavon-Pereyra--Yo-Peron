@@ -1,4 +1,7 @@
-AL PIE DE LA CAÑONERA
+# El memorial del exilio
+## (1955 - 1960)
+
+## AL PIE DE LA CAÑONERA
 
 19 de septiembre de 1955, lo digo para mí, lo repito y me corrijo, era la madrugada del 20. Estaba
 muy cansado, y no sólo porque hacía varias noches que no dormía, a eso, mal que mal, estoy
@@ -85,7 +88,6 @@ educado y contestar a las escasas preguntas que me hacían.
 Se desató una tormenta, de todos modos decidí dormir acaso fuera de la patria. Me acosté
 pronto, pero tardé en conciliar el sueño. Llegué con el recuerdo a todas las cosas y todo estaba sin
 vida y sin calor. Desde afuera me llegaba el murmullo de los marineros: alguien en cubierta
-
 cantaba en sordina acompañándose con una guitarra. Era una canción melancólica de la que no
 llegué a escuchar bien ni una sola palabra. En el silencio, de tanto en tanto, se alzaba una voz.
 Gritaba “¡Perón!”. Estuve tentado de salir, de responder, pero realicé un esfuerzo para no ceder a
@@ -149,7 +151,6 @@ antes de lo que le corresponde.
 A la noche se produjo un incidente que hasta podría haberme hecho reír en una circunstancia
 distinta. Desde la mañana, una compañía entera de infantería de marina estaba apostada sobre el
 muelle —¿para no dejarme escapar o para no dejarme volver?—, y por la noche, subió a bordo un
-
 oficial que advirtió al capitán Cortese de que si llegaba a dejarme hablar a la población desde la
 nave, ésta sería atacada. La respuesta es aleccionadora:
 
@@ -211,7 +212,6 @@ capitán, y subí a un chinchorro. Un patrullero nos precedía. Me acompañaban 
 paraguayo doctor Juan Ramón Chaves: el agregado militar general Demetrio Cardozo: el capitán
 de navío Horacio Barbita; el mayor Cialceta —asilado como yo—, fiscalizando la operación el
 canciller “libertador” Mario Amadeo. Cuando llegamos al costado del avión, Amadeo intentó
-
 darme la mano, por esas cosas de la miopía no lo vi... Ya durante el viaje tomé notas de estos
 pormenores:
 
@@ -242,7 +242,8 @@ Cuando avistamos Asunción eran las 17.40; a las 17.45 aterrizamos en el aeródr
 ante el ministro del Interior, arquitecto Tomás Romero Pereyra, y el jefe de la policía de la
 Capital, teniente coronel Mario Ortega. Nos confundimos en un abrazo.
 
-Mi patria guaraní
+## Mi patria guaraní
+
 Durante el corto trayecto hasta Asunción, el ministro Romero Pereyra me puso al corriente.
 Habían llegado periodistas como nube de mosquitos, por eso fue preferible no aterrizar
 directamente en la Capital, donde ya había un cierto número de exiliados: se temían atentados
@@ -352,7 +353,7 @@ país y mi casa.
 En la madrugada del 2 de noviembre me despedí de mis amigos paraguayos y de Cialceta, sólo
 Radeglia me acompañaría, y me dirigí al aeropuerto de Ñu Guazú.
 
-El destino incierto de un avión
+## El destino incierto de un avión
 
 Todavía durante mi permanencia en casa de Gayol, en Asunción, recibí un telegrama del
 presidente Somoza, quien me invitaba a Managua a compartir cuanto era suyo. Así pues, terminé
@@ -399,7 +400,6 @@ apropiársela, pasarla a manos privadas, las propias, por supuesto. Así nos ha 
 En todos estos años no sé cuántas veces tuve que hacer el inventario de mis bienes,
 afortunadamente son pocos y poco ha sido el tedio al escuchármelo decir, siempre fui pobre y
 entiéndase bien, nunca me interesó ser rico. He tenido ocasiones, legales y no tanto, de
-
 enriquecerme, pude haber participado en negocios, empresas, pude ser asesor o consejero, pero no
 me tentaron. Hay que pagar muy caro para ser rico.
 
@@ -463,7 +463,7 @@ Estado, mejor dicho de estado personal, con minúscula.
 
 Partimos hacia Panamá, teórica escala hacia Managua.
 
-A orillitas del canal
+## A orillitas del canal
 
 He visto unos cuantos mares, los he saboreado con todos los sentidos, puedo distinguir sus
 sonidos tan distintos, no podría confundir sus colores ni sus cielos. Cada uno de los mares también
@@ -495,7 +495,6 @@ ciudad que fue mía, aquí el tango es impensable, todo respira rumba y ron.
 
 Era huésped oficial del hotel El Panamá: es francamente fastuoso, me incomodaba tanto boato,
 pero al menos sabía que podía descansar, demasiado exceso de tensiones, incertidumbres y
-
 kilómetros. La habitación era fresca, la cama amplia, silencio, nada más hacía falta para dormir. Y
 dormí.
 
@@ -529,7 +528,6 @@ Me sugirieron que me trasladase a Colón, a orillita misma del Canal. Mis amigos
 querían resarcirme de la tristeza y muy humanamente me sometieron a la cura por comida. En dos
 días perdí la cuenta de los almuerzos y recepciones: el asunto es que me sentí homenajeado,
 empachado de vituallas y afecto, y lo agradezco. Entre banquete y recepción, y siempre en la
-
 compañía de los dueños de casa, rendí homenaje a la memoria del primer presidente, doctor
 Manuel Amador Guerrero, y a la del hacía poco asesinado José Antonio Remón, a quien había
 conocido en Buenos Aires.
@@ -591,7 +589,6 @@ Por entonces escribí muchas cartas y también las recibí, aunque no todas eran
 que me insultaban o amenazaban de muerte las rompía y las tiraba al canasto, pero el volumen y
 tenor de esta amable correspondencia preocupó a mis amigos al punto de procurarme custodia
 oficial. Creo que la presencia de un grupo de argentinos un tanto extraño que estuvo dando vueltas
-
 por Panamá y Colón fue lo que decidió a las autoridades a procurarme una protección más
 ostentosa. No me molestó porque eran buenos muchachos, si hasta les enseñé a tomar mate.
 
@@ -654,7 +651,6 @@ por esto.
 
 La persecución se llevó a cabo en todos los campos, el real y el simbólico, encarcelando gente
 por cantar la marcha o escribir en la pared “Perón Vuelve”, hubo delación y cualquier sospechoso
-
 de haber aplaudido alguna medida peronista perdía su trabajo. Retiraban las estatuas alegóricas de
 la fachada de la Fundación Eva Perón, quemaron fotos, se apoderaron de la CGT. Avanzaron como
 un ejército de marabuntas, dejando el país en ruinas y a merced del imperialismo. Dieron por
@@ -681,7 +677,8 @@ debe abstenerse de votar. Ésta es mi orden desde el exilio. ¡Viva el peronismo
 prensa lo publicó, para mí fue como echar las redes al mar. Sabía que llegaría al corazón de los
 descamisados.
 
-Regalo de Navidad
+## Regalo de Navidad
+
 Se acercaba la Navidad, con todo lo que las fiestas tradicionales significan. Estábamos lejos de la
 sidra y el pan dulce peronistas, pero estos buenos panameños hacían toda clase de esfuerzos para
 que lo pasásemos bien. Menudeaban las invitaciones. Me distraían del trabajo, pero también me
@@ -750,7 +747,7 @@ La belleza física es para un tiempo breve, después viene la belleza espiritual
 intelectual se prolonga todavía más. El hombre si no advierte esto, tiene mujer para poco rato. Y
 yo tiendo a lo perdurable.
 
-Siempre necesité ua mujer
+## Siempre necesité ua mujer
 
 Yo nunca pensé que un hombre que busque a una mujer cometa un delito. Solamente a un
 gobierno de maricones puede parecerle un defecto que al hombre le gusten las mujeres, sin que
@@ -836,7 +833,6 @@ decisiones del partido, me limité a comentar: “¡Pobre de ella!”.
 
 El 23 de septiembre de 1973, mediante un pronunciamiento eleccionario que, por su magnitud,
 adquirió ribetes plebiscitarios, resultó elegida para el cargo de Vicepresidente de la Nación. A este
-
 respecto, conviene recordar una imagen que pinta, como pocas, la modestia esencial que
 caracteriza a Isabel: “Evita fue la luz del dogma peronista: yo sólo soy su sombra”.
 
@@ -901,7 +897,7 @@ más no fuese improvisado.
 
 —¿ Y cómo está de salud, General?
 
-—pPor ahora bien. Estoy custodiado por expertos. Lo único que puede pasar es que me
+—Por ahora bien. Estoy custodiado por expertos. Lo único que puede pasar es que me
 envenenen la comida.
 
 Chabela sonrió y mirándome a los ojos me dijo:
@@ -920,7 +916,7 @@ se animaba a salir hasta esa circunstancia, pero al otro día fui personalmente 
 quedara conmigo cumpliendo el rol que ella misma se había asignado en aquella noche de copas y
 alegrías.
 
-Cómo y dónde aparecieron los restos de mi Evita
+## Cómo y dónde aparecieron los restos de mi Evita
 
 El tiempo pasó y fue mucho después, por intermedio de ella y de José López Rega, que conseguí
 relacionarme con las únicas personas que no sólo me prometieron recuperar el cadáver de Evita
@@ -1047,8 +1043,7 @@ Ttalia cinco años después de la fecha del deceso.
 Al contar con la aprobación manu militari del gobierno argentino, el coronel Cabanillas se
 presentó, con documentos falsos, como Carlos Maggi, hermano de la viuda; y con los buenos
 oficios de la Propaganda Due, consiguió la autorización para trasladar el cuerpo de su hermana a
-
-Espai
+España.
 
 El miércoles 2 de septiembre de 1971, un sepulturero, un responsable de la Sanidad de Milán, el
 padre Rotger y el coronel de marras, se reunieron junto a la losa de mármol del espacio 86, jardín
@@ -1091,8 +1086,6 @@ temperamento del Maestro Pedro Ara, que asumió la responsabilidad absoluta de t
 reliquia a su estado original, se me va a permitir recurrir al testimonio irrefutable de un
 memorándum que explica el ultraje perpetrado:
 
-y que
-
 El cuerpo de Evita presenta un corte alrededor del cuello, filoso, que secciona parcialmente el cuello del tronco.
 Se comprobó que el cadáver presentaba también las siguientes lesiones:
 
@@ -1100,20 +1093,19 @@ a) hundimiento y fractura del tabique nasal:
 
 b) golpes en la región frontal de la cabeza y una herida producida por un instrumento filoso:
 
-) en la región pectoral, cuatro cortes que toman ambos senos de la extinta, con una extensión de 16 centímetros
+c) en la región pectoral, cuatro cortes que toman ambos senos de la extinta, con una extensión de 16 centímetros
 cada uno, con un instrumento con filo:
 
 d) corte en el brazo izquierdo a la altura del húmero, con visualización del colgajo de carne y músculos, por
 instrumentos con filo:
 
-€) fractura de ambas piernas a la altura de las rodillas, producidas por presión, o por un cuerpo pesado, posado
+e) fractura de ambas piernas a la altura de las rodillas, producidas por presión, o por un cuerpo pesado, posado
 sobre ambas extremidades.
 
 “Todas estas lesiones —sigue explicando el doctor Ventura Mayoral, a través del memorándum
 — han sido burdamente cubiertas por una capa de cera o parafina, pero son visibles a simple vista
 del observador. El cadáver, por razones técnicas de embalsamamiento, se encuentra intacto en
 general, y fue reconocido como tal por el esposo de la extinta. El ataúd que contenía los restos,
-
 estaba cubierto por cinc, que hubo que cortar y en el interior del mismo se había colocado
 abundante cal con el objeto de perjudicar los restos: lo que resultó imposible, por el trámite
 técnico realizado sobre el cadáver”.
@@ -1121,7 +1113,7 @@ técnico realizado sobre el cadáver”.
 Este estremecedor relato explica el motivo por el cual me negué a mostrar el cadáver de Evita al
 periodismo.
 
-Una mancha más al tigre
+## Una mancha más al tigre
 
 Ya aclaré que me había alojado en el hotel Washington por sugerencia de las autoridades, también
 reitero que el hotel fue construido por los yanquis pero está fuera de la Zona del Canal y es
@@ -1205,7 +1197,8 @@ elecciones y de haberlas habido hubiesen sido tramposas a más no poder. Quienes
 barcos como cárceles jamás permitirían que nos presentáramos a candidatos ni a lustrabotas.
 Había que crear nuevas formas de lucha y descentralizar los aspectos técnicos de la conducción.
 
-Los apresurados
+## Los apresurados
+
 Compartían la prisión en buques fondeados en el río, compartieron la conspiración: se habían
 juramentado para que el país volviera al orden democrático. El general ingeniero Juan José Valle
 se puso a la cabeza del movimiento. Esto no debe interpretarse como un rapto de delirio, Valle
@@ -1303,7 +1296,6 @@ será la hora del pueblo, porque construida la fuerza y disperso el gobierno, to
 llegado la hora de la justicia. (...) Mucho me temo que él pueblo no sea capaz de encaminar su acción en la
 resistencia por desorganización, temor o simplemente por despreocupación en la lucha. El espíritu
 individualista de los hombres es muy poderoso, especialmente en los momentos dificiles, cuando algunos creen
-
 que solos se pueden salvar, sin darse cuenta que cuando una comunidad sucumbe nadie puede quedar afuera
 del cataclismo. En cambio la clase proletaria, que es la preferentemente perjudicada en este caso, optará por la
 ruina de todos si ve que no puede evitar su ruina. Es precisamente allí donde hay que hacer hincapié. Cuando
@@ -1345,7 +1337,7 @@ político: permanente agitación por todos los medios.
 Estas instrucciones fueron recibidas por la resistencia como principios organizativos y siguieron
 manteniéndose como tales, con la adaptación coyuntural que los distintos períodos exigieron.
 
-De avión en avión
+## De avión en avión
 
 No me daban tregua, vivía de amargura en amargura, siempre tenían un flanco donde golpear. Me
 dominaba, trataba de reprimir mis estados de ánimo, me molestaba demostrar ante los amigos
@@ -1367,7 +1359,6 @@ americanos, el “presidente” Aramburu condicionó su asistencia a mi ausencia
 noticia! Antes ya le había ofrecido yo al gobierno panameño ahorrarles el mal trago y ausentarme
 por un tiempito. Se negaron. Pero después, frente al planteamiento argentino, me lo tuvieron que
 pedir. No quisieron aceptar mi delicadeza y entonces se tuvieron que aguantar la prepotencia de la
-
 dictadura. En fin, me fui. Aproveché la cercanía y la vieja invitación de Tacho Somoza y partí a
 Nicaragua, solo, con la única compañía de Isaac Gilaberte.
 
@@ -1470,7 +1461,8 @@ abrazo.
 Firmado: “p 5”
 
 El 6 de agosto despaché a Gilaberte por barco, llevando mi auto. El 8, nos fuimos nosotros.
-En tierra de Bolivar
+
+## En tierra de Bolivar
 
 Venezuela esta vez me recibió llena de argentinos, o es lo que me pareció cuando desde la
 escalerilla del avión vi una pancarta de salutación de los compatriotas. ¿Cuánto tiempo tendría que
@@ -1501,7 +1493,6 @@ sobraba.
 La vida continúa. Los horarios habituales para las actividades habituales. Mucho trabajo, algo
 de esparcimiento, el contacto enriquecedor y necesario de los amigos. Hasta que tuve que poner en
 marcha una campaña especial: habían convocado a elecciones para la reforma constitucional,
-
 prevista para julio de 1957, y en febrero de 1958 habría ocasión de votar autoridades nacionales,
 provinciales y municipales.
 
@@ -1623,7 +1614,7 @@ cuando salí dispuesto a repeler el ataque, éste fue rechazado por la guardia.
 El mismo día a la tarde partí para Ciudad Trujillo, en compañía del embajador dominicano en
 Venezuela, Don Rafael Bonnelly.
 
-Ultimo destino americano
+## Ultimo destino americano
 
 Una nueva tierra de paso, República Dominicana. Una vez más tuve que salir a la disparada con
 sólo lo puesto. Si yo fuera un hombre apegado a los bienes materiales ya estaría loco de
@@ -1718,14 +1709,14 @@ vencido (...) La acusación más grave para todos los dirigentes peronistas y en
 tuvieron en sus manos la conducción táctica, es la pregunta que todos los días hacen millones de peronistas:
 “¿Qué hacemos?”. Es que los encargados de la conducción general han resultado pequeños y, como tales, se
 han ocupado de los menesteres subalternos, en vez de ponerse a realizar la conducción en grande, que es su
-
 misión.
 
 Los términos eran duros, pero en verdad me entristecía ver toda esa pelea por un carguito, por
 un titulito, por un privilegio; mientras tanto, el pueblo que aguante. Los dirigentes, ayer como hoy,
 deben ser conscientes de que los que se exponen a la represión y pérdida del trabajo por las
 huelgas no son ellos sino el pueblo y es a él a quien se deben.
-Cada ve= más lejos
+
+## Cada vez más lejos
 
 Las gestiones con el gobierno español fueron un tanto largas, pero estaba empeñado en irme. Ya
 había revuelto demasiado el avispero por este continente. Mi vuelta a la Argentina estaba cada vez
@@ -1757,7 +1748,6 @@ inmediato, recordé otros viajes, otros desperfectos, pensé en el destino.
 
 Estuvimos esperando el cambio de motor durante todo el día, volvimos a partir con oscuridad.
 Nuestro destino: Sevilla, cuestión de seguridad, decían los españoles. Seguridad de ellos, temían
-
 que en Madrid se armasen manifestaciones demasiado bullangueras a causa de mi presencia. Volví
 a pensar en el destino: soy un hombre que quiere pasar inadvertido, pero no hay caso.
 
