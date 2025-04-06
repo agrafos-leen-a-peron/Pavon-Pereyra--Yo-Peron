@@ -48,13 +48,11 @@ Otra de las razones que guiaron mi entendimiento era que no quería especular co
 figura. Por ese motivo reprobé también el trabajo de uno de los primeros retratistas españoles, que
 cumplía ese menester a instancias del Canciller español Martín Artajo, cuando éste nos visitó en
 Buenos Aires en 1948. Daba gusto examinar mi rostro y mis entorchados planeados de manera
-
 sensacional. Llamé al artista para felicitarlo, aunque puntualicé: “...estos bermellones de color
 gualda con fondo de una rojez de incendio majestuoso nos trae a cuento la apostura del finado Rey
 Alfonso XIII, a quien el retrato reflejaba casi como si se tratara de una copia”.
 
 De modo que ahora pienso hacer un “retrato al natural”: sin maquillaje, y con todas las
-
 imperfecciones de mi linaje argentino.
 A esta altura de mi vida son pocas las cosas que no puedo manifestar, sobre todo en lo que
 respecta a mi persona. Una vez escuché decir a un anciano que él estaba amortizado, y al
@@ -86,7 +84,6 @@ Así constaba en las páginas del registro parroquial, que lamentablemente una g
 tinta, derramada “casualmente” sobre el renglón que daría crédito a mis palabras, se ha encargado
 de silenciar para siempre. Se afirma que fue el pueblo de Lobos el que me vio nacer. Allí hay una
 casa, la de mis primeros años, donde gateé, donde comencé a dar mis primeros pasos, pero que
-
 con toda seguridad no vio mi alumbramiento, pues éste había acaecido en Roque Pérez, Partido de
 Saladillo.
 
@@ -143,7 +140,6 @@ cerraban las puertas del futuro. ¿Eso era justo? Nosotros hicimos una ley que d
 los mismos derechos que al hijo legítimo. Esta situación de desprotección sucederá mientras las
 mujeres no intervengan más asiduamente en el espíritu de la legislación: hasta que llegue ese
 momento, ¡las leyes estarán siempre hechas por adúlteros!, que ignoran que no hay hijos
-
 ilegítimos sino padres ilegítimos. Pero existen leyes superiores a las que establecen los
 legisladores: son las leyes naturales.
 
@@ -253,8 +249,7 @@ clasificación tan rigurosa, que los animales estaban maravillosamente bien: par
 A mí me gustaba verlo entrar a Mario a la jaula del gorila, como quien visita a alguien. Ésa fue la
 Única vez que los Perón tuvimos un amigo “gorila”.
 
-Años de peregrinación:
-El calor del hombre de la tierra fría
+## Años de peregrinación: El calor del hombre de la tierra fría
 
 Tenía cuatro años de edad cuando mi padre, envuelto en la difícil situación económica que
 padecíamos, decidió probar fortuna en las inhóspitas tierras del sur patagónico. Primero fue solo,
@@ -319,7 +314,6 @@ tierra y la repartió entre sus lugartenientes. Algunos se quedaron con ella, pe
 vendió a los acaudalados porteños. Así nació la oligarquía terrateniente, que sumergió al
 descendiente del aborigen aún más con el transcurso del tiempo y que limitó, posteriormente, el
 acceso político de la inmigración europea a la propiedad de la tierra. Ése es el origen de la
-
 pobreza de la gente”, nos decía. “Los pobres de hoy son tratados como extraños en la tierra que
 fue de sus antepasados”.
 
@@ -331,7 +325,7 @@ pública e iglesia, y todo debido a las múltiples actividades que mi padre desa
 sea de paso, sólo le reportaron como beneficio un profundo prestigio entre los pobladores. Así de
 poco, pero así de maravilloso.
 
-El ejemplo de un cóndor
+## El ejemplo de un cóndor
 
 Las palabras de mi padre me enseñaron muchas cosas, pero mucho más aprendí de sus actos.
 Después de todo, es como él mismo me refirió una vez “... acordate siempre que tenés que
@@ -371,7 +365,7 @@ una entrega firmísima y con una inquebrantable robustez de objetivos.
 Mi padre dejó su impronta en mi persona y yo poseo el orgullo y la modestia de creer que no lo
 he defraudado.
 
-“Para aprender siempre hay tiempo”
+## “Para aprender siempre hay tiempo”
 
 Buenos Aires significó para mí una experiencia desconcertante. Recibí alojamiento en la casa de
 mi abuela, Dominga Dutey. Mi abuelo Tomás había fallecido, y poco después nos trasladamos a la
@@ -443,7 +437,6 @@ vital. “¿Ud. es médico?”, interrogué. “¿Y Ud. sí es médico, general?
 pregunta, yo en cambio le respondí con una afirmación: “Sí... yo soy médico”, y le señalé a mis
 espaldas la extensa bibliografía médica que ocupaba los estantes de mi biblioteca y que tenía
 como consulta permanente. Guevara que había venido a solicitarme gente para engrosar las filas
-
 de su movimiento revolucionario, debió regresar con una negativa a su pedido y además con una
 sugerencia médica relativa a su salud, que desoyó, y que se convirtió con el tiempo en un dato
 premonitorio.
