@@ -1,4 +1,7 @@
-TIEMPOS DIFÍCILES
+# Un nuevo voto de confianza
+## (1952 - 1955)
+
+## TIEMPOS DIFÍCILES
 
 A partir del año 1949 nuestro país tropezó con serios escollos. La economía argentina había
 aprendido a capear sucesivos temporales, después de varias décadas de zozobras, producto del
@@ -23,7 +26,6 @@ cosechas consecutivas para caer derrotado, ¡cómo si a nosotros nos hubieran ti
 maíz! A esos pobres cacasenos de la antipatria, a esos fulanos sin nombre que escriben de rodillas,
 a esos falsos historiadores de salón, que sólo escriben buenas frases para la gente de empresa y
 enseguida se piensan literatos, les digo: el peronismo no cayó derrotado. Nunca jamás una salvaje
-
 tiranía pudo matar a todo un pueblo. Ya nos demostró con su vida y con su valentía el hermano
 pueblo chileno en 1973, que un pueblo no abdica nunca. Hubo intereses más importantes para los
 golpistas que dos malas cosechas.
@@ -88,7 +90,6 @@ influyera negativamente en la situación económica nacional.
 
 A esta circunstancia se le sumó la acción psicológica de la oposición, que se valió de esas
 realidades para golpear incansablemente sobre las espaldas del peronismo. Esas críticas, sumadas
-
 a la actitud de muchos comerciantes e industriales reacios a moderar sus ganancias, llevaron al
 gobierno a endurecer actitudes para quienes no mostraran una resuelta postura solidaria para con
 el pueblo.
@@ -164,7 +165,7 @@ Estado nos había cortado el ingreso a las economías europeas. No olvidemos que
 comiendo del plato yanqui, gracias a los recursos inventados por el Plan Marshall. Había que
 esperar un tiempo.
 
-Segundo Plan Quinquenal
+## Segundo Plan Quinquenal
 
 El Segundo Plan Quinquenal puso a la República Argentina directamente rumbo a la
 industrialización, fijando dos etapas fundamentales; la primera, tendiente a consolidar lo que
@@ -210,7 +211,6 @@ fui al circo de un amigo que siempre veía la parte mala de las cosas; un equili
 pértiga una mesa; sobre ella una silla; sobre la silla una botella: y se paró de cabeza sobre la
 botella. Con los pies sostenía un arpa y con las manos la tocaba. Este buen señor, comentando el
 espectáculo, dijo: “No me gusta cómo toca el arpa””. Para mí, los que se quejaban del problema
-
 económico en aquella época, tenían mucho del escepticismo del personaje del cuento. ¿Qué país
 no tenía problemas económicos? ¿Quién podía hablar de equilibrio económico en el mundo y
 tener la pretensión de la Argentina, de subsanarlo por propia mano, recurriendo a sus propios
@@ -272,7 +272,6 @@ Debíamos reconvertir nuestra economía o estábamos perdidos.
 
 El país tendría que realizar un gran esfuerzo de ahorro económico para facilitar al Estado la
 posibilidad de brindar una línea de créditos a quienes estuvieran dispuestos a lanzarse al ruedo
-
 para competir. Era un riesgo obstinado, sólo posible para quienes tuvieran absoluta confianza en
 sus dirigentes y supieran que no había detrás de esta posibilidad algún manejo desaprensivo o
 alguna duda acerca de la integridad de la gente que llevaría adelante este emprendimiento.
@@ -283,7 +282,7 @@ definitiva no era otra que propender a que el industrial aumentase su ganancia a
 trabajador, que ganaría un poco menos, a cambio de que ese esfuerzo se invirtiese en pos del
 crecimiento económico de la patria.
 
-Los enemigos de adentro y de afuera
+## Los enemigos de adentro y de afuera
 
 Por varias razones, 1953 fue un año significativo. Para empezar, estábamos viviendo los últimos
 coletazos de la experiencia golpista de Menéndez y otros militares y civiles que fracasaron en su
@@ -335,7 +334,6 @@ teníamos argumentación moral para discutir.
 
 Comenzamos una fuerte campaña autocrítica desde el gobierno, para que llegase a todas las
 unidades básicas. La revista Mundo Peronista nos sirvió bien a ese respecto. Era un quincenario
-
 publicado por el Consejo Superior Peronista, donde se llevó adelante una ofensiva depuradora.
 Sacamos a la luz textos ya publicados contra la corrupción juntamente con otros referidos a la
 reciente actualidad, de profundo contenido moralizante, pero suficientemente claros en su
@@ -460,7 +458,6 @@ tenía que recibir.
 Nuestro interés siempre fue uno solo. Lograr que la palabra cultura cobrara su verdadera
 dimensión. La cultura debía unificarse a todos los actos de la vida. Había que crear una cultura
 social, artística, deportiva. La cultura no debía ser patrimonio de la gente que sabe leer. Porque
-
 eso no es cultura sino instrucción. La verdadera cultura define los patrones básicos de
 entendimiento de una verdadera nación. Nuestros grandes intelectuales populares como
 Hernández Arregui, el mencionado Jauretche y hasta Leopoldo Marechal, la definen muy bien.
@@ -484,7 +481,7 @@ especialmente adecuado como para que expresen con total dignidad al pueblo sus c
 Eso también debe ser parte del fomento a la cultura nacional, como en el viejo teatro griego,
 donde la gente iba a ver representar su vida cotidiana.
 
-La cuestión con la Iglesia Católica
+## La cuestión con la Iglesia Católica
 
 El Movimiento Justicialista, a diferencia de otros, era y es ideológicamente cristiano, y tanto era,
 que por diez años consecutivos el clero argentino, desde su más alta jerarquía hasta el más
@@ -517,7 +514,6 @@ campaña electoral. En aquella circunstancia aseveré que mi política social es
 Encíclicas papales y mantuve hasta el final esta promesa. Pero el Papa dijo algo más aún al
 sacerdote, le manifestó que le había conmovido mi devoción a la Milagrosa Virgen de Luján, cuya
 pequeña imagen llevé conmigo al exilio y que tengo sobre mi mesa de luz. También, consideró
-
 sabia mi decisión de iniciar las actividades del gobierno con una visita al santuario de la Madre de
 Dios.
 
@@ -580,7 +576,6 @@ En lo que respecta a la cuestión de la enseñanza religiosa, puedo afirmar que 
 tiempos tal enseñanza no era religiosa sino política, y que en la base de esta política existía una
 animadversión antiperonista verdaderamente desconcertante. Yo recuerdo que el propio Lonardi,
 tratando de justificar su alzamiento desde el balcón de la Casa Rosada, aludió al “mal gusto” que
-
 caracterizaba al justicialismo. Por lo visto, eran vulgares, rudos, poco civilizados, se nos podía
 eliminar con impunidad asegurada.
 
@@ -609,7 +604,8 @@ sostuvo que no se debía y no se podía reabrir las casas de tolerancia. El mini
 entrar en razones. Nos preguntamos: “¿La existencia de las “casas ocultas” ha bastado para
 empeorar las relaciones con la Iglesia en cualquier Estado europeo o extraeuropeo? ¿Lo que fue
 hecho en la Argentina por esta cuestión, fue hecho alguna otra vez por parte del clero?”.
-De junio a septiembre: La posición política de la Iglesia
+
+## De junio a septiembre: La posición política de la Iglesia
 
 Desde noviembre de 1954 tomó estado público lo que se dio en llamar el conflicto entre la Iglesia
 y mi gobierno. El problema estuvo mal encarado, porque no fue estrictamente así, sino más bien
@@ -640,7 +636,6 @@ revolución y al desorden.
 Como respuesta, el gobierno comenzó una persecución de los sectores vinculados al caos,
 produciéndose la separación de funcionarios y docentes católicos, deteniendo a sacerdotes,
 pidiendo expresamente al periodismo que denunciase las actividades de los elementos clericales
-
 perturbadores. Estas medidas produjeron la profundización de las protestas de los militantes
 católicos. Yo realicé entonces un llamamiento a la Iglesia para que prevaleciese la cordura. Les
 advertí que debían recordar que el gobierno justicialista había sido el que más había colaborado
@@ -673,7 +668,6 @@ Hasta ese momento la sangre no había llegado al río.
 Durante todo 1944 se hizo patente la diferencia entre lo que podríamos llamar el alto y el bajo
 clero. El último carecía de voz propia pero estaba bien cerca de los problemas más acuciantes de
 la sociedad. Así fue que la organización obrera fue alejándose cada vez más del alto clero, al que
-
 no sentía partícipe de los mismos intereses populares. A comienzos de 1944 se formó la asociación
 que será conocida con el nombre de Juventud Obrera Católica (JOC). Su dirección estaba en
 manos del referido bajo clero. Este grupo explicaba así la situación: “Primer hecho: la clase obrera
@@ -705,7 +699,6 @@ con los sectores de poder económico.
 “Yo no invoco a Dios a cada rato”, dijo Eva. “La verdad es que no lo quiero complicar a Dios
 en el bochinche de mis cosas. Además, casi nunca lo molesto pidiéndole que me recuerde y nunca
 reclamo por mí. Pero lo quiero a Cristo mucho más de lo que usted cree, yo lo quiero en los
-
 descamisados... ¿Acaso no dijo Él que estaría en los pobres, en los enfermos, en los que tuviesen
 hambre y en los que tuviesen sed?
 
@@ -766,12 +759,10 @@ asesinato del presidente de la Nación, que se realizaría cinco días más tard
 la mañana—, mediante bombardeos aéreos a la Casa Rosada.
 
 En la noche de esa luctuosa jornada del 16 de junio, se produjo el incendio de varios templos
-
 porteños, Santo Domingo, San Francisco, San Ignacio y otras iglesias, y la Curia Eclesiástica,
 frente a la Plaza de Mayo. Ninguna de las comisiones investigadoras formadas después de
 septiembre de 1955 pudo demostrar con precisión a quién correspondió la responsabilidad de esos
 hechos. De todas maneras, los acontecimientos produjeron la indignación de vastos sectores de la
-
 población, católicos o no, peronistas o no, y el hecho actuó muy negativamente en la imagen del
 gobierno que se deterioró sensiblemente. La insurrección había sido sofocada por la tarde con la
 toma del Ministerio de Marina y de algunas bases de la Aeronáutica. El incendio de las iglesias,
@@ -836,7 +827,6 @@ extraordinariamente excitados y temerosos.
 Como existía el Estado de Guerra interior, cuya ley en su artículo segundo autorizaba al
 fusilamiento inmediato de los cabecillas, muchos vinieron a pedirme que los fusilara y aun
 algunos de los perdonados habrán pensado que fui débil al no hacerlo. Yo creo lo contrario. En
-
 esos casos es más fácil fusilar que someterse a la justicia establecida. No me ha gustado nunca
 mancharme con sangre, ni aun con la de mis más enconados enemigos.
 
