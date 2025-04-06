@@ -1,4 +1,7 @@
-PRIMER GOBIERNO: EL FERVOR POPULAR Y EL NACIONALISMO ECONÓMICO
+# Por voluntad del Pueblo
+## (1946 - 1952)
+
+## PRIMER GOBIERNO: EL FERVOR POPULAR Y EL NACIONALISMO ECONÓMICO
 
 Qué sorpresa invadió a los representantes de la democracia del Departamento de Estado, al
 descubrir que habían perdido por más de 300 mil votos. Por eso, mi discurso del día anterior
@@ -22,7 +25,6 @@ presidencial, en el barrio de Palermo.
 
 Desde un principio me sentí presidente de todos los argentinos, y así lo hice saber a quien
 quisiera preguntarlo y lo demostré trabajando incansablemente por todos nosotros. Cuando llegué
-
 a la Casa de Gobierno, había un despacho general con un oficial mayor que le ponía el sello a los
 decretos y pedía la firma al presidente; después, el jefe de la casa militar, del cual dependen los
 edecanes y dan las audiencias; el tercer organismo, el secretario privado que contestaba las cartas;
@@ -71,7 +73,6 @@ para su funcionamiento, ubicados en las finanzas, el comercio y el transporte. F
 Segunda Guerra, los sectores que emergían en el panorama nacional requerían, para poder crecer,
 la definitiva eliminación del control imperialista monopólico sobre el comercio de exportación y
 las finanzas, y la contención de los intereses extranjeros en el mercado interno. ¡Hacer argentino
-
 el dinero del país era indispensable! Nacionalizar los depósitos bancarios, concentrar en el Banco
 Central la facultad de emitir moneda y el control de cambios, en fin, nacionalizar la economía
 argentina para que sirviera a los argentinos.
@@ -84,7 +85,6 @@ nuestra tarea exponiendo con claridad y con franqueza el estado de cosas en que 
 nuestro país después de nuestro alejamiento y la comparación con los objetivos que nos habíamos
 impuesto. Nosotros buscamos consolidar y expandir el crecimiento equilibrado de la economía
 argentina, integrando una economía agroindustrial, independizada al máximo de las contingencias
-
 externas, y atendiendo especialmente a la elevación sustancial del nivel de vida de la población
 trabajadora.
 
@@ -136,9 +136,8 @@ empleado con un sueldo de noventa pesos, y en diez años había levantado treint
 le referí sobre la charla que había tenido con los economistas y su posterior respuesta, me
 contestó: “General, ¿usted cree que si fueran capaces de algo, estarían ganando un sueldo
 miserable como asesores?”. “Pero Miranda, ¡vea que tenemos que comprar mucho y no hay
+dinero'”, le dije yo todavía. Él me contesto
 “Y ésa es la forma de comprar... sin dinero... con plata
-
-dinero'”, le dije yo todavía. Él me contest
 compran los tontos...”. Miranda era un genio. Su intuición, su tremenda capacidad de síntesis y su
 certera visión comercial hicieron ganar a la república en un año más de cincuenta años de acción
 de todos sus economistas diletantes y generadores de métodos y sistemas rutinarios e
@@ -146,7 +145,6 @@ intrascendentes para el país. Esas reuniones fueron comiquísimas, en la primer
 estrellarle una silla por la cabeza. Él era un hombre expeditivo y se encontró con la horma de su
 zapato. Iba a los negocios directamente y yo tenía una preocupación social recurrente que no
 estaba dispuesto a olvidar. Al final, terminé creando el Consejo Económico Nacional y lo hice
-
 presidente. Él fue el gran artífice de esa tremenda batalla que se llamó “Recuperación Nacional”.
 El país necesitaba de un hombre activo, sin prejuicios de escuela, con una sólida formación
 empresaria, no universitaria, y con la suficiente audacia para construir.
@@ -158,22 +156,17 @@ aspecto que a Miranda no le interesaba tanto por ser un hombre eminentemente de 
 empresa. Con ese espíritu se realizó la compra de los ferrocarriles, todo el mundo conoce la
 habilidad de los negociadores ingleses. Su gran astucia y su terrible pertinacia para persuadir u
 obligar, con divisas acumuladas por provisión de cereales, carne, etc. durante la guerra,
-permitieron repatriar la deuda externa. Luego me d:
-ferrocarriles ingleses”. Insinuó veladamente por distintos conductos que el gobierno estaba
-
+permitieron repatriar la deuda externa. Luego me dijo:
 “General, vamos a empezar por los
-
+ferrocarriles ingleses”. Insinuó veladamente por distintos conductos que el gobierno estaba
 dispuesto a comprar los ferrocarriles. La respuesta no se hizo esperar; poco tiempo después llegó
 una comisión del directorio de los ferrocarriles de Londres, dispuesta a ofrecer al gobierno
 argentino la venta de los mismos. Todas las tratativas a las que llegó Miranda con los enviados de
 la empresa concluyeron en que se fijara un precio máximo por todos los bienes directos e
 indirectos de la empresa en la cantidad de dos millones de pesos, en contraposición a los diez
-
 millones solicitados inicialmente por los ingleses. Un año después, el gobierno de Gran Bretaña
 firmó con el gobierno argentino un tratado por el que se comprometió a mantener la
-convertil
-
-dad de la libra esterlina, que nos permitía el negociar triangular con los Estados
+convertibildad de la libra esterlina, que nos permitía el negociar triangular con los Estados
 Unidos. Con habilidad, Miranda agotó los saldos acreedores argentinos en Londres para repatriar
 la deuda. Al firmar el contrato de compraventa de los ferrocarriles, estableció dos cuestiones
 fundamentales, en cuanto a la adquisición y la forma de pago: primero, que se compraban en
@@ -349,10 +342,9 @@ podía pasar que el tiempo les diera la razón, y la política es eso, una cuest
 Lebensohn tenía en ese entonces 39 años y también le correspondieron las generales de la ley. Él
 también era originario de un partido político popular: por alguna razón, el radicalismo se había
 desdibujado entre la gente y actitudes como las que descubrí dejan en claro por qué pasan ciertas
-
 cosas.
 
-La labor política de Evita
+## La labor política de Evita
 
 Evita entró en la política cuando estaban a punto de sacarme. Su compromiso político comenzó
 noches antes del 17 de Octubre, cuando aún en el departamento de la calle Posadas estuvimos en
@@ -577,7 +569,6 @@ algo al pueblo y a Perón, yo aguanto: pero si no, es mejor que me lleves!” A 
 la rodearon en los últimos días dijo, refiriéndose a sus dolores: “Dios es justo. Yo tenía que haber
 sido todo lo contrario de lo que fui. Era una pobre chica y de pronto me encontré con Perón, que
 me brindó su cariño. Dios me ayudó para que no agarrase por otro camino y me inclinó por el
-
 pueblo. Ahora Dios tiene derecho a hacerme sufrir un poco... ¡Pero le pediría unas vacaciones!”,
 añadía sobreponiéndose con una sonrisa de dolor.
 
@@ -590,7 +581,6 @@ que atender a los pobres, a los trabajadores, y quererlos y trabajar fanáticame
 mal puede haber en eso? Si alguna falta he cometido en mi vida, con estos dolores ya he pagado
 suficiente”. El día antes de su muerte, por la tarde, se habían debilitado extraordinariamente sus
 fuerzas físicas. Pidió frecuentemente por mí, a sus familiares y a cuantos la rodeaban:
-
 “¡Ayúdenme a rezar!” y volvió a repetir, “no quisiera morirme: por Perón y por mi pueblo”.
 Una o dos noches antes del final dijo: “Si me muero, no importa. Yo seguiré con mi pueblo y con
 Perón. ¡Desde la tierra o el cielo!”.
@@ -616,14 +606,14 @@ hechos, aún resuenan como un eco de la voluntad popular:
 voluntad y yo cumpliré religiosamente. Su pueblo tiene derecho a disponer de quien más lo
 amaba. Y ese pueblo será depositario de sus despojos, así como fue depositario de su cariño”.
 
-La conspiración oligárquica
+## La conspiración oligárquica
 
 En enero de 1951, comenzaba un año muy particular que quedaría marcado a fuego en la historia
 del peronismo como sinónimo de la reacción. Ese año será recordado por una conspiración
 oligárquica encabezada por el general Benjamín Menéndez, que constituyó, en resumidas cuentas,
 un síntoma evidente del malestar imperante en algunos sectores de las Fuerzas Armadas frente a la
 acción desarrollada por el gobierno. La inquietud de esos jefes reaccionarios tiene su explicación.
-El gobierno estructura  productiva del
+El gobierno estaba transformando la estructura  productiva del pais, modificando
 fundamentalmente el reparto distributivo de la economía nacional: evidentemente, para ello tenía
 que lesionar intereses de otros, los dueños del poder económico desde siempre en nuestra tierra,
 los auténticos explotadores, la oligarquía. Ellos seguían soñando con la Argentina de las vacas
@@ -637,9 +627,6 @@ en realidad jamás pretendimos fomentar desde nuestro gobierno una construcción
 impedido. Yo llegué a tener en mis manos todo el poder político como el que jamás obtuvo
 dirigente alguno en nuestro país. Podría haber impulsado cualquier tipo de revolución, hubiera
 podido darle a la revolución peronista cualquier matiz, incluso el izquierdista. Sin embargo,
-
-estaba transformando la país, modificando
-
 fuimos peronistas o como a mí me gusta decir para que no suene jactancioso, justicialistas. En vez
 de enfrentar a las Fuerzas Armadas con el pueblo, más bien traté de identificarlas; yo sabía que la
 petulancia oligárquica podía impulsar a varios camaradas a equivocarse, pero también sabía que
@@ -730,7 +717,6 @@ El 28 de septiembre por la mañana, los altos mandos fueron sorprendidos por las
 provenientes de Campo de Mayo. A las 7.30, el general Vacca fue requerido en su despacho por
 cierto llamado telefónico, luego nos informó que había sido llamado por el general Delmiro Videla
 Balaguer, quien le comunicó que el Liceo Militar Gral. San Martín había recibido la visita del
-
 coronel Esteban Font, quien era jefe de la plana mayor de la Dirección General de Institutos
 Militares, manifestándole a él, que era el jefe de esa unidad, que al llegar a la “puerta 8” no le
 había sido permitida la entrada al acantonamiento de Campo de Mayo, y que un capitán intentó
@@ -759,7 +745,6 @@ Castillo. Recuerdo que en oportunidad de un brindis que se llevó a cabo en el C
 individuo acercó su copa a la mía diciendo: “Por el éxito de la revolución que ustedes me han
 arrebatado”. Este general de pacotilla quería estar anotado en todas. Nunca fue una persona
 demasiado importante en materia política, ni siquiera dentro del ejército. Su única gravitación se
-
 circunscribió en el arma a la cual pertenecía que era la de caballería, tradicional enemiga de
 nuestra orientación política, la infantería.
 
@@ -792,7 +777,7 @@ que se pusiera en contacto con todos los organismos inferiores de conducción qu
 Secretario General, y en poco tiempo se comenzaron a levantar barricadas y a provocar
 interferencias suficientes como para que los levantiscos desistieran de esa locura.
 
-La gente, desde todos los rincones, se precipi
+La gente, desde todos los rincones, se precipito a la calle. Fue curioso observar las extrañas
 características que mostraba una acción mancomunada y popular, pero al revés de lo que pasa en
 términos generales. Es común observar que los obreros estallen por las injusticias que viven y que
 salgan a la calle para expresar por medio de la violencia su disgusto. Ese día la gente salió a
@@ -819,9 +804,6 @@ que la aquejaba. Se le aplicaban transfusiones permanentes y tenía recetado rep
 tarde, tuve que explicarle lo que pasaba porque la comía la curiosidad. Había estado recluida
 cuatro días en su habitación y, sin embargo, por la noche del día 28, sobreponiéndose a las
 dificultades propias de su enfermedad, fue hasta la radio para explicarles a sus descamisados las
-
-a la calle. Fue curioso observar las extrañas
-
 razones por las cuales ella no había podido estar presente junto a ellos en la calle y en la Plaza de
 Mayo. “Pero no quiero que termine este día memorable”, dijo, “sin hacerles llegar mi palabra de
 agradecimiento y de homenaje, uniendo así mi corazón de mujer argentina y peronista al corazón
@@ -839,7 +821,7 @@ razón Evita. Se había roto el cumplimiento estricto del deber militar y a part
 confabulados quedarían agazapados a la espera de otra oportunidad que les confiriera el triunfo y,
 con él, un infinito testimonio de gratitud por parte de la oligarquía herida.
 
-La Tercera Posición Internacional
+## La Tercera Posición Internacional
 
 Analizar este concepto como la simple equidistancia respecto a los dos grandes bloques que se
 repartieron el mundo después de la Segunda Guerra sería una interpretación muy simplista de la
@@ -880,7 +862,6 @@ país en cuestión.
 
 Nosotros, por ejemplo, decidimos restablecer las relaciones diplomáticas con la URSS después
 del triunfo del 24 de febrero. Aparte de la importancia que revista para el país el hecho de no tener
-
 zonas “tabú” en el globo terráqueo, fue una medida que le sirvió al gobierno argentino como
 respuesta al intento yanqui de intervenir en los asuntos internos de nuestro país después del
 famoso caso de Braden. Esta política independiente de los grandes bloques de poder mundial
@@ -891,7 +872,6 @@ Sin ir más lejos, recuerdo que hasta el 55 la tirantez entre nuestro gobierno y
 provocó que la Fuerza Aérea Uruguaya fuera una de las mejores equipadas del continente.
 Producido el derrocamiento, la Fuerza Aérea Uruguaya fue empujada a un desamparo tal, que hoy
 prácticamente ha desaparecido. Otro ejemplo que se inscribe dentro de la autonomía del pueblo
-
 argentino respecto de sus decisiones soberanas dentro del marco tercerista es la negativa del
 gobierno a incorporarse al Fondo Monetario Internacional y al Banco Mundial.
 
@@ -1003,7 +983,6 @@ conocen y viven unos cuantos intermediarios.
 Por otra parte, la democracia de nuestros tiempos no puede ser estática, desarrollada en grupos
 cerrados de dominadores por herencia o por fortuna, sino dinámica y en expansión, para dar
 cabida y sentido a las crecientes multitudes que van igualando en condiciones y posibilidades a las
-
 de los grupos privilegiados. Esas masas ascendentes reclaman una democracia directa y
 expeditiva, y las viejas formas ya no pueden ofrecerlas.
 
@@ -1037,3 +1016,4 @@ imperialistas buscaban crear hegemonías inadmisibles y satélites privilegiados
 ¡Triste espectáculo el de esa Argentina oficialmente ausente en el proceso emancipador de la
 América Latina, sobre todo si se la compara con aquella Argentina de veinte años atrás que, a
 pesar de estar hostilizada por poderosos intereses extrarregionales, dio importantes pasos para
+facilitar 
