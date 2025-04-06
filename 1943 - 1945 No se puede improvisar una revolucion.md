@@ -1,4 +1,7 @@
-LA ARGENTINA DE 1943
+# No se puede improvisar una revolucion
+## (1943 - 1945)
+
+## LA ARGENTINA DE 1943
 
 Malestares de tipo social, económico y político comenzaron a llenar el ambiente a fines de 1942.
 La crisis política que sacudía a la sociedad argentina dio lugar al movimiento militar de junio del
@@ -23,7 +26,6 @@ frente a los países centrales.
 
 Es probable que la misma oligarquía advirtiera que la concordancia ya no constituía un
 instrumento político eficaz y debido a ello, apareciese el presidente Ortiz con un mensaje saneador
-
 y moralista ante la gente, para tratar de captar así, con otro recurso hipócrita, algún apoyo popular
 para el modelo político desvalorizado, antes de que algunos otros sectores denominados
 maximalistas les dieran un golpe de mano y acaparasen el favor de la gente, motivando el
@@ -143,7 +145,7 @@ y el segundo, al sindicalismo de Estado, que es más peligroso y más terrible.
 No ha faltado quien me motejara de haber mimado a los pobres. “Puede ser verdad”, repliqué,
 “a condición que se admita que, hasta el presente, los únicos mimados han sido los ricos”.
 
-Un 4 de junio
+## Un 4 de junio
 
 El ejército no abandonó sus cuarteles movido por un sentimiento de ambición. Fue el clamor de la
 calle, del taller, del campo, el que llegó hasta la milicia, para golpear a sus puertas en demanda de
@@ -201,7 +203,6 @@ olvido de los deberes patronales que, libres de la tutela estatal, sometían a l
 
 La secretaría en realidad era un lugar destinado al olvido donde yo debía quedar tapado por el
 aparato burocrático, pero como todo lo que tiene un objetivo grande finalmente triunfa, así pude
-
 poner en marcha un montón de leyes sociales que esa burocracia cómplice hacía morir en los
 cajones del Departamento de Trabajo. La secretaría se transformó en el lugar estratégico para
 dirigirme al nuevo sector que emergía en una Argentina que empezaba a poblarse de chimeneas.
@@ -209,7 +210,7 @@ Estos trabajadores encontraron allí un lugar donde hacer sus reclamos, nunca na
 preocupado siquiera por escucharlos, menos por acercar alguna solución. Yo empecé por dejar
 abierta la puerta y escuchar a todo el mundo. Si querían más, había que seguir empujando.
 
-El Gran Oidor
+## El Gran Oidor
 
 Cuando me hice cargo de la Secretaría de Trabajo y Previsión Social, un abogado me preguntó:
 “¿Cuál cree usted, coronel, que es la ley obrera más necesaria?”. Y yo le respondí: “Una que haga
@@ -266,7 +267,7 @@ hombre más joven y mejor dotado tomará de mis manos la bandera y la llevará a
 soldado, nada hay más grato que quemarse en la llama épica y sagrada que alumbra el camino de
 la victoria.
 
-Evita: una mujer inprescindible
+## Evita: una mujer inprescindible
 
 Éramos no más de cincuenta personas mirándonos las caras, desencajados, nerviosos,
 improvisados. Como pasa comúnmente con toda la gente cuando recibe una noticia inesperada que
@@ -321,7 +322,6 @@ con auténtica fe y pasión por la tarea.
 
 Millares de personas habían quedado aisladas, sin techo, viviendo en zonas frías y desérticas
 con el único amparo de una muralla amenazante de montañas peladas coronadas por nieves
-
 eternas.
 
 Entre los tantos que en esos días s se llegaron hasta mi despacho, pasó por él otra vez esa mujer
@@ -385,7 +385,6 @@ el hombre, que no debía esperar nuestras dádivas, que el sexo no debía ser de
 superioridad. Por eso afirmo que, en realidad, la decisión de casamiento entre Eva y yo fue el
 primer acto revolucionario que produjo el Justicialismo. Un oficial del ejército argentino casado
 con una artista era una grave ofensa para la imagen de la institución, pero si a ello se agrega el
-
 hecho de que ese oficial había cobrado una trascendencia insospechada, el cuadro de esa realidad
 se volvía, para muchos cortos de genio, bochornoso.
 
@@ -405,7 +404,7 @@ también la monotonía, la frigidez y, en el mejor de los casos, la obsecuencia.
 una mujer apasionada y su fervor no sólo lo vaciaba en la política sino que se desplegaba en todos
 los actos de su vida.
 
-Construyendo el poder
+## Construyendo el poder
 
 A partir de junio de 1943 comenzó en la Argentina un fenómeno nunca visto en nuestro país: se
 trataba del acceso del pueblo a las esferas de la decisión política a través de las delegaciones
@@ -442,7 +441,6 @@ apoyando decididamente los proyectos de cambio: pero los cargos, los puestos enc
 fueron transformando nuevamente en los mediocres que habían sido. Reconozco que la oligarquía
 también ayudaba económicamente a esa transfiguración. Lo concreto fue que cuando, por
 ejemplo, se crearon los tribunales de trabajo, instrumento jurídico idóneo donde discutir las
-
 reivindicaciones del sector laboral, la presión de la oligarquía sobre los funcionarios
 “negociables” se precipitó.
 
@@ -504,7 +502,6 @@ fuerzas económicas argentinas declaran la guerra a la política de Perón”. Y
 de tales personas, quedaba claro que la ganancia del capitalista no surgía de fabricar cada vez más
 y de vender esa producción, sino de fabricar cada vez más barato. Lo que nosotros le obligábamos
 a aceptar con esas mejoras decrecía sensiblemente su ganancia, porque obligábamos a disminuir la
-
 explotación. Esas fuerzas que se oponían a nuestra política de justicia social han representado
 dentro del país la eterna oligarquía económica, que ha manejado siempre a la oligarquía política.
 
@@ -565,7 +562,6 @@ Evidentemente, teníamos vísceras diferentes y hablábamos idiomas distintos.
 Sin embargo, la suerte estaba echada. Frente a la acción, los tiempos que tienen las masas no
 son los mismos en los que se mueven los individuos. Llegó un momento maravilloso en el que las
 pequeñas decisiones individuales no contaban y por su propia condición de incontenible, se
-
 transformó en histórico. Recuerdo que vinieron a mi despacho varios dirigentes sindicales con la
 intención de convencerme. Les contesté que no y me respondieron que los gremios realizarían una
 movilización en agradecimiento por los beneficios sociales adquiridos y para solicitarme que
@@ -612,7 +608,7 @@ pequeña y frágil mujer parecía hasta tímida, no quería, por ejemplo, ni hab
 seguía como una sombra, me escuchaba atentamente, asimilaba mis ideas, las elaboraba en su
 cerebro hirviente y agilísimo y seguía mis directivas con una precisión excepcional.
 
-Trabajo y destino: hacia octubre
+## Trabajo y destino: hacia octubre
 
 Agosto del 45 sería un mes significativo. Las concentraciones en la calle por parte de los dos
 bandos eran permanentes. Entonces, Japón se rindió definitivamente y las fuerzas de la Unión
@@ -623,7 +619,6 @@ lugar del presidente y expuse las bases del auténtico programa. Expliqué que e
 gravedad de las actividades de la revolución había tenido distintas etapas. Las dos primeras habían
 sido la etapa económica y luego la social intensa, ahora le tocaba el turno a la política, porque me
 daba la impresión de que luego de otorgadas todas las conquistas sociales, éstas no se mantendrían
-
 en el tiempo si los trabajadores no tenían una herramienta idónea que las pudiese contener, como
 puede ser un partido político popular. Según mis cálculos, 1945 era el tiempo en el que las
 condiciones objetivas para un afianzamiento de la revolución estaban dadas; si quien se piensa
@@ -635,16 +630,13 @@ gente, la reforma agraria, diciendo “ninguna sociedad anónima puede tener com
 de 1.200 a 1.500 leguas en la Patagonia. Si seguimos en este tren de cosas pronto las compañías
 formarán provincias o gobernaciones. La revolución ha levantado la bandera de la reforma agraria
 y ésa será una de las grandes conquistas de la revolución. Es natural que contra nosotros se hayan
-*”. Y quiénes eran: en la
+levantado las “fuerzas vivas” que otros llaman los “vivos de las fuerzas”. Y quiénes eran: en la
 Bolsa de Comercio, quinientos que vivían traficando con lo que otros producían: en la Unión
 Industrial, doce señores que no habían sido jamás industriales; y los ganaderos que, como bien
 sabemos, cada vez que se reunían era para imponerle al país una dictadura. Ese discurso fue
 particularmente importante para mí porque lo leí a mis camaradas, tratando de que el ejército se
 fuese poniendo en situación, y también porque sabía positivamente que iba a ocasionar una
 reacción particular por parte de esos “vivos”. Así fue, jovencitos bien vestidos recorrieron la
-
-levantado las “fuerzas vivas” que otros llaman los “vivos de las fuerzas
-
 ciudad reclamando liberación y la entrega del gobierno a la Corte Suprema, pero olvidaban que
 nuestros trabajadores, con su trabajo, les estaban costeando los estudios y ellos les pagaban con
 disturbios y rompiendo vidrieras. Los partidos políticos se unieron al reclamo de esos imberbes.
@@ -684,7 +676,6 @@ pedido la renuncia desde un primer momento, yo les hubiera ahorrado tanta fanfar
 
 Tenía mis secretos temores sobre la lealtad de Campo de Mayo, pero debía hacer honor a la
 caballerosidad y el juramento solemnemente realizado. Ello me exigía una conducta prudente,
-
 pero en algo hay que creer en la vida y entonces uno está inclinado a creer en mentiras cuando no
 encuentra verdades para creer. La fe en los juramentos, más que una convicción, debe ser una
 naturaleza en los hombres bien nacidos. Cada uno responde por su conciencia y rinde cuenta de
@@ -753,7 +744,6 @@ Al día siguiente me fui a descansar al Tigre, pero previamente le avisé al gen
 estaría por si deseaban comunicarme alguna cosa: en realidad, esperaba que no viniese nadie. Sin
 embargo, por la noche me avisaron que Farrell quería verme y me trasladé a Buenos Aires junto
 con el jefe de Policía, coronel Mittelbach. Allí me informaron que me debía trasladar a la
-
 cañonera Independencia y así, mediante engaño, me llevaron a Martín García. Allí fueron a
 visitarme varios camaradas que me apoyaron. Me sentía profundamente traicionado por Farrell, a
 quien le habían hecho firmar la orden de mi detención, pero estaba en ascuas respecto al porqué de
@@ -763,65 +753,65 @@ El capitán médico Miguel Ángel Mazza fue de una gran ayuda en esta circunstan
 varias cartas mías a distintas personas de Buenos Aires y especialmente a Evita, de quien me había
 alejado repentinamente y a quien no había vuelto a ver.
 
-Ala
-Señorita Evita Duarte
-Buenos Aires
+> A la
+> Señorita Evita Duarte
+> Buenos Aires
 
-Mi tesoro adorado:
+> Mi tesoro adorado:
 
-Sólo cuando nos alejamos de las personas queridas podemos medir el cariño que nos inspira. Desde el día
+> Sólo cuando nos alejamos de las personas queridas podemos medir el cariño que nos inspira. Desde el día
 que te dejé allí con el dolor más grande que puedas imaginar no he podido tranquilizar mi triste corazón. Hoy
 Sé cuánto te quiero y no puedo vivir sin vos. Esta inmensa soledad sólo está llena con tu recuerdo.
-
-Hoy he escrito a Farrell pidiéndole me acelere el retiro; en cuanto salga nos casamos y nos iremos a
+>
+> Hoy he escrito a Farrell pidiéndole me acelere el retiro; en cuanto salga nos casamos y nos iremos a
 cualquier parte a vivir tranquilos.
-
-Por correo te escribo y te mando una carta para entregar a Mercante. Ésta te la mando con un muchacho
+>
+> Por correo te escribo y te mando una carta para entregar a Mercante. Ésta te la mando con un muchacho
 porque es probable que me intercepten la correspondencia.
-
-De casa me trasladaron a Martín García, y aquí estoy no sé por qué y sin que me hayan dicho nada. ¿Qué me
+>
+> De casa me trasladaron a Martín García, y aquí estoy no sé por qué y sin que me hayan dicho nada. ¿Qué me
 decís de Farrell y de Ávalos? Dos sinvergiienzas con el amigo. Así es la vida.
-
-En cuanto llegué, lo primero que hice fue escribirte. No sé si habrás recibido mi carta que mandé certificada.
-
-Te encargo le digas a Mercante que hable con Farrell, para ver si me dejan tranquilo y nos vamos a Chubut
+>
+> En cuanto llegué, lo primero que hice fue escribirte. No sé si habrás recibido mi carta que mandé certificada.
+>
+> Te encargo le digas a Mercante que hable con Farrell, para ver si me dejan tranquilo y nos vamos a Chubut
 los dos.
-
-Pensaba también que conviene, si iniciaron algunos trámites legales, le consultaras al Doctor Gache Pirán,
+>
+> Pensaba también que conviene, si iniciaron algunos trámites legales, le consultaras al Doctor Gache Pirán,
 Juez Federal, muy amigo mío, sobre la forma cómo puede hacerse todo. Decile a Mercante que sin pérdida de
 riempo se entreviste con Gache Pirán y hagan las cosas con él. Creo poder proceder por el Juzgado Federal del
 mismo Gache Pirán.
-
-El amigo Brosen puede ser útil en estos momentos, porque el hombre es de muchos recursos.
-Debes estar tranquila y cuidar tu salud mientras yo esté lejos para cuando vuelva. Yo estaría tranquilo si
+>
+> El amigo Brosen puede ser útil en estos momentos, porque el hombre es de muchos recursos.
+> Debes estar tranquila y cuidar tu salud mientras yo esté lejos para cuando vuelva. Yo estaría tranquilo si
 supiese que no estás en ningún peligro y te encuentras bien.
-
-Mientras escribía esta carta me avisan que hoy viene Mazza (el doctor Luis Ángel Mazza, médico militar) a
+>
+> Mientras escribía esta carta me avisan que hoy viene Mazza (el doctor Luis Ángel Mazza, médico militar) a
 verme, lo que me produce una gran alegría, pues con ello tendré un contacto indirecto contigo.
-
-Estate muy tranquila. Mazza te contará cómo está todo. Trataré de ir a Buenos Aires por cualquier medio, de
+>
+> Estate muy tranquila. Mazza te contará cómo está todo. Trataré de ir a Buenos Aires por cualquier medio, de
 modo que puedes esperar tranquila y cuidarte mucho la salud. Si sale el retiro nos casamos al día siguiente y si
 no sale yo arreglaré las cosas de otro modo, pero liquidaremos esta situación de desamparo que tú tienes
 ahora.
-
-Viejita de mi alma, tengo tus retratitos en mi pieza y los miro todo el día con lágrimas en los ojos. Que no te
+>
+> Viejita de mi alma, tengo tus retratitos en mi pieza y los miro todo el día con lágrimas en los ojos. Que no te
 vaya a pasar nada porque entonces habrá terminado mi vida. Cuidate mucho y no te preocupes por mí, pero
 quereme mucho. Hoy lo necesito más que nunca.
-
-Tesoro mío, tené calma y aprendé a esperar. Esto terminará y la vida será nuestra. Con lo que yo he hecho
+>
+> Tesoro mío, tené calma y aprendé a esperar. Esto terminará y la vida será nuestra. Con lo que yo he hecho
 estoy justificado ante la historia y sé que el tiempo me dará la razón.
-
-Empezaré a escribir un libro sobre esto y lo publicaré cuanto antes; veremos entonces quién tiene razón.
-
-El mal de este tiempo y especialmente de este país son los tontos y tú sabes que es peor un bruto que un malo.
-
-Bueno mi alma: querría seguirte escribiendo todo el día, pero hoy Mazza te contará más que yo. Falta media
+>
+> Empezaré a escribir un libro sobre esto y lo publicaré cuanto antes; veremos entonces quién tiene razón.
+>
+> El mal de este tiempo y especialmente de este país son los tontos y tú sabes que es peor un bruto que un malo.
+>
+> Bueno mi alma: querría seguirte escribiendo todo el día, pero hoy Mazza te contará más que yo. Falta media
 hora para que llegue el vapor.
-
-Mis últimas palabras de esta carta quiero que sean para recomendarte calma y tranquilidad. Muchos pero
+>
+> Mis últimas palabras de esta carta quiero que sean para recomendarte calma y tranquilidad. Muchos pero
 muchos besos y recuerdos para mi chinita querida.
-
-Juan Domingo Perón
+>
+> Juan Domingo Perón
 
 El doctor Mazza me comentó que la movilización de las bases sindicales había provocado el
 desequilibrio del nuevo grupo militar que había tomado el poder. Evita trataba desesperadamente
@@ -850,9 +840,8 @@ De esta época es una anécdota paradójica. Resulta que el general Ávalos y el
 Vernengo Lima fueron las cabezas visibles contra la oposición popular. Cuando en el Círculo
 Militar Vernengo anunció mi confinamiento definitivo y deseada muerte política, la multitud,
 “antiperonista” pero furiosamente antimilitarista, a los gritos le impidió hacerse oír, entonces, este
-“¡yo no soy Perón!”, como si eso pudiera servir de alguna diferencia para la
-
 cipayo dijo
+“¡yo no soy Perón!”, como si eso pudiera servir de alguna diferencia para la
 oligarquía, que lo único que pretendía era usar a ese grupo del ejército como brazo armado de sus
 prerrogativas.
 
@@ -1016,7 +1005,6 @@ Farrell le confirmó a Mazza dos aspectos que yo tenía: la adhesión del interi
 y el peligro de asesinato al que estuve expuesto. Mazza me reconoció después que durante aquella
 entrevista se había confirmado su hipótesis de que en todo este proceso había más debilidad que
 valentía. Farrell, incluso, llegó a decirle a Mazza que se quedara tranquilo pues “los obreros
-
 apoyarían a nuestro líder, (...) para hablarme cerró bien las puertas y me dio a entender su
 desconfianza para con todos. Me hizo salir precipitadamente cuando se enteró que venía el general
 Ávalos”. Este último lo llamó a Mazza aparte y le aseguró su profunda amistad y cariño hacia mi
@@ -1055,7 +1043,7 @@ en mi casa por eso se la di, ahora está en la suya. Usted es mi superior pero n
 “Imbécil, le daría una cachetada, ya nos encontraremos”. Fue la única expresión de un hombre
 cansado de sufrir”.
 
-1945: la primavera llegó más tarde
+## 1945: la primavera llegó más tarde
 
 Mientras la Capital del país se organizaba en movilización, gracias al impulso que también le dio
 Evita, el interior comenzó a disponer huelgas orgánicas de carácter revolucionario, labor que
@@ -1076,7 +1064,6 @@ advirtieron a los jefes contrarios que si la Marina disparaba desde el río haci
 tomarían represalias contra sus familiares. Desde el martes 16 había comenzado a desplazarse una
 gruesa columna de Avellaneda a Plaza de Mayo. El grupo de Cipriano Reyes, del gremio de la
 carne, también abandonó su trabajo y se sumó al movimiento popular. Así, en forma tan
-
 espontánea, se reunió el Comité Central Confederal de la CGT que resolvió la huelga general
 revolucionaria por 48 horas.
 
@@ -1107,7 +1094,8 @@ mandase a mudar. Después, desde allí, llamé a los dirigentes obreros, nos enc
 Farrell y llegamos a un acuerdo. Los obreros sostenían que todos, incluso Farrell, habíamos sido
 traicionados por agentes de la oligarquía, entonces exigían la renuncia de todo el gabinete y de los
 traidores. Así se hizo.
-El Partido Laborista: Sólo una herramienta
+
+## El Partido Laborista: Sólo una herramienta
 
 El día 18, me fui con mi mujer a descansar cuatro días a San Nicolás, a la quinta de los Subiza.
 Mientras tanto, el nuevo elenco de gobierno se aprestaba a hacer lo que yo les sugería: dentro de
@@ -1136,7 +1124,6 @@ sentimental, una novedad, un descubrimiento.
 
 Ya en plena campaña y lanzado el Partido Laborista al ruedo, los viejos partidos revivieron la
 Unión Democrática, soliviantados desde el exterior por el ahora secretario de Estado adjunto
-
 Spruille Braden. Él me acusaba de fascista y yo aprovechaba y cargaba las tintas con las consignas
 antiimperialistas. Era como un juego, todos sabíamos que la suerte estaba echada. Todos, menos
 los ciegos emisarios de la antipatria, que me acusaban de tirano y no querían ver que el pueblo
