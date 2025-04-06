@@ -1,5 +1,8 @@
-REFLEXIONES SOBRE LA GUERRA.
-ESTUDIAR PARA LA PAZ
+# Los años de la Escuela de Guerra
+## (1926 - 1930)
+
+
+## REFLEXIONES SOBRE LA GUERRA. ESTUDIAR PARA LA PAZ
 
 En 1926, faltando dos años para que Alvear terminara su mandato, me incorporé a la Escuela
 Superior de Guerra. Allí conocía a hombres de la talla de Von der Becke, Monferini y Arana.
@@ -20,7 +23,6 @@ observar en los años que pasé en la escuela de suboficiales. Esta “preocupac
 decirlo, que yo manifestaba por el análisis de la realidad, no beneficia la imagen del doctor
 Levene, pero sí recibí palabras de aliento de los coroneles Smith y Verdaguer, y reiteradas
 menciones de parte de los generales Ramón Molina y Guillermo Mohr, quien más tarde fue
-
 inspector general del ejército. Por suerte, supe mantener una criteriosa diferenciación para
 distinguir de dónde venían las alabanzas y de dónde las recriminaciones.
 
@@ -60,7 +62,7 @@ ciegos..”.
 Por aquellos años tenía anotada esta frase en mi libreta de ayuda memoria: “Hombre de
 voluntad, educar al alma es el supremo bien”.
 
-La democracia sin poder
+## La democracia sin poder
 
 Paralelamente, Hipólito Yrigoyen recobraba el apoyo popular el 12 de octubre de 1928. Los casi
 800.000 votos que le dieron la victoria garantizaban a todas luces su solidá base democrática, pero
@@ -81,7 +83,6 @@ crisis internacional derrumbó el ingreso de divisas a nuestro país por el cese
 la oligarquía empezó a expulsar peones que se vinieron derechito para Buenos Aires, desocupados
 sin experiencia industrial que vivían hacinados en los suburbios a la espera de un milagro. En ese
 momento la oligarquía comenzó a poner los huevos en distintas canastas y si bien no sacó las
-
 patas de sus campos, supo estirar la mano hasta la ciudad para no desperdiciar la oportunidad que
 le brindaba este período de sustitución de importaciones, generado desde afuera a raíz del colapso
 de la economía yanqui.
@@ -91,7 +92,7 @@ Jaire y permitió que el Estado metiera las manos en una economía que antes de 
 estaba vedada. ¡Claro, después se olvidaron! y reemplazaron una mano invisible por un Estado
 genuflexo.
 
-Sentando cabeza
+## Sentando cabeza
 
 Todo esto lo pienso hoy, pero en esa época yo era otra persona, que a pesar de las preocupaciones
 sociales y la gran cantidad de horas invertidas en el estudio, buscaba distracción junto con tres
@@ -141,7 +142,7 @@ una muletilla para romper la distancia entre él y su público.
 En enero de 1929 estrenaba dos títulos, el de hombre casado y el de la graduación en la Escuela
 Superior de Guerra, por la cual obtuve un destino en el Estado Mayor General del Ejército.
 
-La forja de un conductor
+## La forja de un conductor
 
 En los años de la Escuela de Guerra fui perfilando los lineamientos básicos que se plasmarían en
 materia de conducción política. No podemos olvidar que toda esa época, crítica para nuestro país
